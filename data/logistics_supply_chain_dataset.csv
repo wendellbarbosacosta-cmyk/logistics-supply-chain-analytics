@@ -1,0 +1,1201 @@
+delivery_id,order_code,carrier_name,origin_hub,destination_region,distance_km,package_weight_kg,cargo_value,shipping_cost,promised_sla_hours,transit_time_hours,weather_adverse,traffic_congestion,delivery_status,delay_hours,sla_breach_penalty,delay_probability
+LOG-0001,PED-897295,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1134,19.8,2003,173,103,25,0,0,"No Prazo",0,0,0.29
+LOG-0002,PED-767064,"Rota Ágil","Extrema (CD-03)","Nordeste",1641,1.4,2409,166,113,38,0,0,"No Prazo",0,0,0.28
+LOG-0003,PED-703499,"LogExpress","Campinas (CD-02)","Centro-Oeste",1063,20.5,131,182,98,24,0,0,"No Prazo",0,0,0.28
+LOG-0004,PED-406601,"Rota Ágil","São Paulo (CD-01)","Sudeste",397,2.1,2459,71,47,16,0,1,"No Prazo",0,0,0.31
+LOG-0005,PED-803827,"Rota Ágil","Campinas (CD-02)","Sul",645,31.9,2103,177,74,16,0,0,"No Prazo",0,0,0.27
+LOG-0006,PED-787484,"Rota Ágil","Campinas (CD-02)","Sul",706,15.7,1864,128,74,49,1,1,"No Prazo",0,0,0.65
+LOG-0007,PED-961473,"LogExpress","São Paulo (CD-01)","Sudeste",320,13.3,249,88,49,12,0,0,"No Prazo",0,0,0.17
+LOG-0008,PED-572908,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1518,1.5,531,151,131,74,1,1,"No Prazo",0,0,0.81
+LOG-0009,PED-595972,"Rota Ágil","Extrema (CD-03)","Sul",770,25.1,1769,164,77,21,0,0,"No Prazo",0,0,0.26
+LOG-0010,PED-201851,"Rota Ágil","Extrema (CD-03)","Sul",739,23.7,1696,165,73,14,0,0,"No Prazo",0,0,0.26
+LOG-0011,PED-274398,"Flash Courier","São Paulo (CD-01)","Sul",867,0.7,873,95,69,16,0,0,"No Prazo",0,0,0.1
+LOG-0012,PED-513611,"Flash Courier","Extrema (CD-03)","Sul",633,4.3,3105,93,76,12,0,0,"No Prazo",0,0,0.09
+LOG-0013,PED-619490,"Rota Ágil","Campinas (CD-02)","Sudeste",283,1.7,509,53,47,12,0,0,"No Prazo",0,0,0.12
+LOG-0014,PED-292037,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1274,4.8,2625,139,109,27,0,0,"No Prazo",0,0,0.25
+LOG-0015,PED-131250,"LogExpress","Campinas (CD-02)","Sudeste",310,8.3,2018,82,46,12,0,0,"No Prazo",0,0,0.15
+LOG-0016,PED-737129,"Flash Courier","São Paulo (CD-01)","Sudeste",369,2.1,2724,66,53,34,1,0,"No Prazo",0,0,0.3
+LOG-0017,PED-785976,"TransBrasil Cargo","Campinas (CD-02)","Sul",676,16.4,3870,129,72,27,0,1,"No Prazo",0,0,0.52
+LOG-0018,PED-920702,"Flash Courier","Campinas (CD-02)","Sudeste",259,15,1375,100,47,41,1,0,"No Prazo",0,0,0.34
+LOG-0019,PED-388530,"LogExpress","Extrema (CD-03)","Centro-Oeste",1267,32.6,474,236,87,32,0,0,"No Prazo",0,0,0.35
+LOG-0020,PED-202743,"LogExpress","Extrema (CD-03)","Sudeste",251,6.5,197,74,50,26,0,1,"No Prazo",0,0,0.31
+LOG-0021,PED-164783,"Flash Courier","São Paulo (CD-01)","Sudeste",310,3,1979,60,55,45,1,0,"No Prazo",0,0,0.3
+LOG-0022,PED-321037,"Flash Courier","Campinas (CD-02)","Centro-Oeste",912,3.8,646,107,103,24,0,1,"No Prazo",0,0,0.3
+LOG-0023,PED-618726,"Rota Ágil","São Paulo (CD-01)","Sul",855,23.9,3228,173,75,23,0,0,"No Prazo",0,0,0.27
+LOG-0024,PED-241273,"LogExpress","São Paulo (CD-01)","Sudeste",323,13.1,105,98,53,12,0,0,"No Prazo",0,0,0.17
+LOG-0025,PED-930486,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",1056,4.5,5102,126,104,61,1,0,"No Prazo",0,0,0.47
+LOG-0026,PED-577943,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",346,0.4,4220,61,53,12,0,0,"No Prazo",0,0,0.24
+LOG-0027,PED-981045,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",291,29.2,246,136,45,12,0,0,"No Prazo",0,0,0.34
+LOG-0028,PED-850814,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",391,4.7,388,77,50,12,0,0,"No Prazo",0,0,0.26
+LOG-0029,PED-787249,"Flash Courier","Campinas (CD-02)","Sudeste",271,30,2857,149,54,49,1,1,"No Prazo",0,0,0.57
+LOG-0030,PED-289479,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",281,32.5,3000,152,47,12,0,0,"No Prazo",0,0,0.35
+LOG-0031,PED-820358,"Flash Courier","São Paulo (CD-01)","Sudeste",326,15.2,3128,98,53,12,0,0,"No Prazo",0,0,0.1
+LOG-0032,PED-917905,"Rota Ágil","Campinas (CD-02)","Sul",673,13.7,2135,121,70,19,0,0,"No Prazo",0,0,0.21
+LOG-0033,PED-282118,"TransBrasil Cargo","Extrema (CD-03)","Sul",970,10.8,50,131,71,29,0,0,"No Prazo",0,0,0.35
+LOG-0034,PED-412997,"Rota Ágil","São Paulo (CD-01)","Sudeste",319,0.7,1857,48,52,18,0,1,"No Prazo",0,0,0.3
+LOG-0035,PED-259760,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",387,35.2,607,163,46,30,0,1,"No Prazo",0,0,0.56
+LOG-0036,PED-617403,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1341,3,68,138,107,39,0,0,"No Prazo",0,0,0.37
+LOG-0037,PED-876060,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",250,13,632,81,49,12,0,0,"No Prazo",0,0,0.28
+LOG-0038,PED-801385,"Flash Courier","São Paulo (CD-01)","Nordeste",1505,33.4,1758,252,132,71,1,1,"No Prazo",0,0,0.73
+LOG-0039,PED-507318,"Flash Courier","Campinas (CD-02)","Sudeste",307,33.2,1667,161,49,17,0,1,"No Prazo",0,0,0.34
+LOG-0040,PED-961489,"LogExpress","Campinas (CD-02)","Sul",726,6,1132,99,81,34,0,1,"No Prazo",0,0,0.37
+LOG-0041,PED-782094,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",387,19.9,224,114,44,22,0,1,"No Prazo",0,0,0.5
+LOG-0042,PED-683024,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",1751,34.8,600,272,110,45,0,0,"No Prazo",0,0,0.53
+LOG-0043,PED-477793,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2275,4.9,519,228,122,60,0,0,"No Prazo",0,0,0.48
+LOG-0044,PED-339228,"Flash Courier","Extrema (CD-03)","Centro-Oeste",825,25.8,2555,179,103,20,0,0,"No Prazo",0,0,0.19
+LOG-0045,PED-867330,"LogExpress","Campinas (CD-02)","Nordeste",1915,2.4,146,191,121,49,0,0,"No Prazo",0,0,0.31
+LOG-0046,PED-862098,"LogExpress","Extrema (CD-03)","Sudeste",382,0.9,649,57,48,12,0,0,"No Prazo",0,0,0.13
+LOG-0047,PED-923533,"Rota Ágil","Extrema (CD-03)","Sudeste",391,1.7,4861,58,45,12,0,0,"No Prazo",0,0,0.13
+LOG-0048,PED-751635,"Flash Courier","São Paulo (CD-01)","Sul",701,0.8,2128,78,73,17,0,0,"No Prazo",0,0,0.08
+LOG-0049,PED-946404,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",338,11.4,57,90,54,13,0,0,"No Prazo",0,0,0.28
+LOG-0050,PED-307839,"LogExpress","Extrema (CD-03)","Sudeste",329,1.6,4139,54,47,12,0,0,"No Prazo",0,0,0.12
+LOG-0051,PED-335941,"Flash Courier","Campinas (CD-02)","Nordeste",2242,15.7,3259,249,112,50,0,0,"No Prazo",0,0,0.32
+LOG-0052,PED-730709,"LogExpress","São Paulo (CD-01)","Sul",586,15.6,958,121,68,13,0,0,"No Prazo",0,0,0.21
+LOG-0053,PED-292145,"Rota Ágil","Campinas (CD-02)","Sudeste",374,24.4,1193,127,44,21,0,1,"No Prazo",0,0,0.4
+LOG-0054,PED-306732,"Flash Courier","Extrema (CD-03)","Norte",3343,13.5,2761,336,187,84,0,1,"No Prazo",0,0,0.62
+LOG-0055,PED-862754,"Rota Ágil","São Paulo (CD-01)","Sudeste",311,32.5,92,151,54,12,0,0,"No Prazo",0,0,0.24
+LOG-0056,PED-585300,"Flash Courier","Extrema (CD-03)","Sudeste",355,10.4,1641,92,55,12,0,0,"No Prazo",0,0,0.08
+LOG-0057,PED-474513,"Flash Courier","Extrema (CD-03)","Centro-Oeste",859,0.4,1466,90,102,23,0,1,"No Prazo",0,0,0.28
+LOG-0058,PED-780304,"Rota Ágil","Extrema (CD-03)","Sudeste",264,17.1,3728,103,44,12,0,0,"No Prazo",0,0,0.17
+LOG-0059,PED-683406,"TransBrasil Cargo","São Paulo (CD-01)","Sul",813,17.4,1903,147,73,25,0,0,"No Prazo",0,0,0.36
+LOG-0060,PED-953175,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",397,2.2,89,58,55,17,0,1,"No Prazo",0,0,0.43
+LOG-0061,PED-255956,"Rota Ágil","Campinas (CD-02)","Sudeste",385,35.1,4787,167,45,12,0,0,"No Prazo",0,0,0.26
+LOG-0062,PED-706280,"Rota Ágil","São Paulo (CD-01)","Sudeste",315,34.1,3088,158,44,12,0,0,"No Prazo",0,0,0.24
+LOG-0063,PED-523271,"TransBrasil Cargo","São Paulo (CD-01)","Sul",798,19.1,245,150,72,23,0,0,"No Prazo",0,0,0.36
+LOG-0064,PED-306929,"Flash Courier","Campinas (CD-02)","Sul",902,25.9,4799,180,79,38,0,1,"No Prazo",0,0,0.38
+LOG-0065,PED-201145,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1507,15.8,5198,203,128,40,0,0,"No Prazo",0,0,0.44
+LOG-0066,PED-432025,"Flash Courier","Extrema (CD-03)","Sul",972,33.3,2373,210,80,54,1,0,"No Prazo",0,0,0.49
+LOG-0067,PED-337121,"Flash Courier","Campinas (CD-02)","Sudeste",336,2.1,138,66,55,38,1,1,"No Prazo",0,0,0.48
+LOG-0068,PED-154629,"Rota Ágil","São Paulo (CD-01)","Sudeste",319,19.2,64,120,53,12,0,0,"No Prazo",0,0,0.19
+LOG-0069,PED-327175,"Rota Ágil","Campinas (CD-02)","Sudeste",282,21.5,50,110,47,12,0,0,"No Prazo",0,0,0.19
+LOG-0070,PED-666388,"Flash Courier","Extrema (CD-03)","Sul",627,21.9,1268,150,74,30,0,1,"No Prazo",0,0,0.34
+LOG-0071,PED-259679,"TransBrasil Cargo","São Paulo (CD-01)","Sul",742,1.2,5433,96,67,22,0,0,"No Prazo",0,0,0.29
+LOG-0072,PED-612781,"Flash Courier","Extrema (CD-03)","Sul",717,15.7,399,132,65,28,0,1,"No Prazo",0,0,0.32
+LOG-0073,PED-939174,"Flash Courier","Extrema (CD-03)","Sudeste",345,3.4,1192,58,47,26,1,0,"No Prazo",0,0,0.3
+LOG-0074,PED-798668,"Flash Courier","Extrema (CD-03)","Nordeste",2112,24.2,51,279,133,45,0,0,"No Prazo",0,0,0.34
+LOG-0075,PED-212881,"Rota Ágil","Campinas (CD-02)","Nordeste",1610,1.2,1177,156,118,63,1,0,"No Prazo",0,0,0.52
+LOG-0076,PED-166589,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",251,0.8,282,42,49,12,0,0,"No Prazo",0,0,0.23
+LOG-0077,PED-194691,"Rota Ágil","São Paulo (CD-01)","Sudeste",289,12.7,113,94,47,12,0,0,"No Prazo",0,0,0.16
+LOG-0078,PED-589459,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1107,12.6,3138,150,95,51,1,0,"No Prazo",0,0,0.43
+LOG-0079,PED-265158,"LogExpress","São Paulo (CD-01)","Sudeste",358,23.8,3941,127,48,30,1,0,"No Prazo",0,0,0.46
+LOG-0080,PED-415625,"LogExpress","Campinas (CD-02)","Centro-Oeste",1333,9.1,2476,160,107,30,0,0,"No Prazo",0,0,0.27
+LOG-0081,PED-571504,"Rota Ágil","Campinas (CD-02)","Sudeste",366,19.4,431,123,54,12,0,0,"No Prazo",0,0,0.2
+LOG-0082,PED-294050,"Flash Courier","São Paulo (CD-01)","Sudeste",249,3.5,2856,56,55,19,0,1,"No Prazo",0,0,0.22
+LOG-0083,PED-727619,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",363,18.1,2919,115,50,45,1,0,"No Prazo",0,0,0.56
+LOG-0084,PED-363734,"Rota Ágil","Campinas (CD-02)","Nordeste",2280,7.5,2053,231,109,71,0,1,"No Prazo",0,0,0.55
+LOG-0085,PED-149618,"Rota Ágil","Campinas (CD-02)","Nordeste",1632,11.6,4068,196,134,51,0,1,"No Prazo",0,0,0.49
+LOG-0086,PED-599158,"Flash Courier","Campinas (CD-02)","Sul",618,7.9,3792,97,79,17,0,0,"No Prazo",0,0,0.1
+LOG-0087,PED-877260,"Rota Ágil","São Paulo (CD-01)","Sul",951,26.5,50,188,75,37,0,1,"No Prazo",0,0,0.47
+LOG-0088,PED-184903,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1260,30.8,1875,226,88,27,0,0,"No Prazo",0,0,0.26
+LOG-0089,PED-443560,"Flash Courier","São Paulo (CD-01)","Sudeste",387,3.3,3976,66,51,12,0,0,"No Prazo",0,0,0.06
+LOG-0090,PED-368885,"Rota Ágil","Campinas (CD-02)","Nordeste",2337,16.7,82,270,138,95,1,1,"No Prazo",0,0,0.85
+LOG-0091,PED-674818,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1341,4.9,2968,153,93,32,0,0,"No Prazo",0,0,0.17
+LOG-0092,PED-627920,"Rota Ágil","São Paulo (CD-01)","Sudeste",255,19.5,1693,108,44,12,0,0,"No Prazo",0,0,0.18
+LOG-0093,PED-947689,"Flash Courier","Campinas (CD-02)","Norte",2446,15.5,111,274,152,52,0,0,"No Prazo",0,0,0.34
+LOG-0094,PED-434124,"LogExpress","Campinas (CD-02)","Sudeste",395,20.1,79,119,53,34,1,0,"No Prazo",0,0,0.45
+LOG-0095,PED-479961,"Rota Ágil","São Paulo (CD-01)","Sudeste",348,1.1,4051,52,55,12,0,0,"No Prazo",0,0,0.12
+LOG-0096,PED-946952,"Rota Ágil","Extrema (CD-03)","Sudeste",264,29,52,142,48,21,0,1,"No Prazo",0,0,0.4
+LOG-0097,PED-639780,"Flash Courier","Campinas (CD-02)","Centro-Oeste",870,9.9,68,132,94,31,0,1,"No Prazo",0,0,0.32
+LOG-0098,PED-579598,"Flash Courier","São Paulo (CD-01)","Sudeste",386,31.9,51,164,52,12,0,0,"No Prazo",0,0,0.16
+LOG-0099,PED-641033,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",394,0.4,2174,62,49,12,0,0,"No Prazo",0,0,0.25
+LOG-0100,PED-469135,"LogExpress","Campinas (CD-02)","Centro-Oeste",1000,31.6,548,208,106,26,0,0,"No Prazo",0,0,0.32
+LOG-0101,PED-663904,"Rota Ágil","Campinas (CD-02)","Sudeste",341,6.5,2908,67,47,12,0,0,"No Prazo",0,0,0.14
+LOG-0102,PED-925339,"Flash Courier","São Paulo (CD-01)","Sudeste",332,0.4,1704,59,51,12,0,0,"No Prazo",0,0,0.04
+LOG-0103,PED-953441,"LogExpress","Extrema (CD-03)","Sudeste",371,9.9,1164,88,49,12,0,0,"No Prazo",0,0,0.16
+LOG-0104,PED-448209,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",838,9.8,97,131,99,17,0,0,"No Prazo",0,0,0.21
+LOG-0105,PED-909645,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",377,17.2,161,112,48,19,0,1,"No Prazo",0,0,0.49
+LOG-0106,PED-774232,"LogExpress","São Paulo (CD-01)","Norte",3133,3.6,320,293,152,81,0,0,"No Prazo",0,0,0.46
+LOG-0107,PED-416222,"LogExpress","São Paulo (CD-01)","Sudeste",280,1.3,1275,51,49,23,0,1,"No Prazo",0,0,0.3
+LOG-0108,PED-902800,"Flash Courier","Extrema (CD-03)","Norte",2711,0.4,4413,237,192,94,1,1,"No Prazo",0,0,0.75
+LOG-0109,PED-838827,"Flash Courier","Extrema (CD-03)","Sul",920,4.8,2372,107,81,24,0,0,"No Prazo",0,0,0.13
+LOG-0110,PED-822484,"Flash Courier","Extrema (CD-03)","Sul",591,0.4,2118,80,80,45,1,0,"No Prazo",0,0,0.32
+LOG-0111,PED-983368,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",363,11.9,485,94,45,17,0,1,"No Prazo",0,0,0.47
+LOG-0112,PED-907908,"Flash Courier","Campinas (CD-02)","Sudeste",255,26.7,2504,132,49,19,0,1,"No Prazo",0,0,0.31
+LOG-0113,PED-576662,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1731,26.4,4148,245,127,51,0,0,"No Prazo",0,0,0.5
+LOG-0114,PED-868653,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",945,22.1,3891,168,90,24,0,0,"No Prazo",0,0,0.27
+LOG-0115,PED-227310,"Rota Ágil","Extrema (CD-03)","Sudeste",295,0.9,110,46,52,12,0,0,"No Prazo",0,0,0.12
+LOG-0116,PED-152635,"LogExpress","São Paulo (CD-01)","Nordeste",1777,10.3,673,200,110,42,0,0,"No Prazo",0,0,0.33
+LOG-0117,PED-344625,"TransBrasil Cargo","São Paulo (CD-01)","Sul",905,16,265,157,80,33,0,1,"No Prazo",0,0,0.55
+LOG-0118,PED-927037,"LogExpress","Extrema (CD-03)","Sul",659,5.8,886,99,82,15,0,0,"No Prazo",0,0,0.18
+LOG-0119,PED-766250,"Flash Courier","Campinas (CD-02)","Sudeste",370,9.6,557,81,46,18,0,1,"No Prazo",0,0,0.26
+LOG-0120,PED-967874,"LogExpress","São Paulo (CD-01)","Sudeste",276,7.2,200,75,52,12,0,0,"No Prazo",0,0,0.14
+LOG-0121,PED-220976,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1729,5.8,282,180,111,67,0,1,"No Prazo",0,0,0.6
+LOG-0122,PED-955702,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",372,34.6,1593,168,52,40,1,1,"No Prazo",0,0,0.8
+LOG-0123,PED-443580,"Rota Ágil","Campinas (CD-02)","Sudeste",399,34.3,193,161,55,12,0,0,"No Prazo",0,0,0.26
+LOG-0124,PED-438348,"Rota Ágil","Extrema (CD-03)","Sudeste",307,27.6,759,141,54,12,0,0,"No Prazo",0,0,0.22
+LOG-0125,PED-499783,"Rota Ágil","São Paulo (CD-01)","Sudeste",316,31.7,5166,153,51,12,0,0,"No Prazo",0,0,0.24
+LOG-0126,PED-327885,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2269,27.3,2330,292,137,98,1,0,"No Prazo",0,0,0.82
+LOG-0127,PED-198028,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",289,0.6,3936,50,44,27,0,1,"No Prazo",0,0,0.42
+LOG-0128,PED-876273,"Flash Courier","São Paulo (CD-01)","Nordeste",2332,14.8,3620,254,134,50,0,0,"No Prazo",0,0,0.33
+LOG-0129,PED-665486,"LogExpress","São Paulo (CD-01)","Sudeste",367,5.5,2475,80,52,14,0,1,"No Prazo",0,0,0.32
+LOG-0130,PED-912943,"Flash Courier","Campinas (CD-02)","Sudeste",352,19.2,375,122,50,12,0,0,"No Prazo",0,0,0.11
+LOG-0131,PED-416045,"TransBrasil Cargo","Campinas (CD-02)","Sul",726,14.5,1782,124,80,32,0,1,"No Prazo",0,0,0.52
+LOG-0132,PED-546604,"Flash Courier","Campinas (CD-02)","Norte",2162,15.2,4316,244,179,45,0,0,"No Prazo",0,0,0.31
+LOG-0133,PED-630262,"LogExpress","Campinas (CD-02)","Sudeste",339,0.8,5067,57,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0134,PED-380586,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",862,15.5,5468,143,107,23,0,0,"No Prazo",0,0,0.24
+LOG-0135,PED-397577,"Flash Courier","São Paulo (CD-01)","Sudeste",246,29.8,2442,140,52,12,0,1,"No Prazo",0,0,0.32
+LOG-0136,PED-652905,"LogExpress","Campinas (CD-02)","Sudeste",336,15.3,618,104,47,12,0,0,"No Prazo",0,0,0.18
+LOG-0137,PED-917118,"Flash Courier","Extrema (CD-03)","Sudeste",298,12.3,2803,87,48,19,0,1,"No Prazo",0,0,0.26
+LOG-0138,PED-316658,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1565,3.9,1486,167,112,45,0,0,"No Prazo",0,0,0.4
+LOG-0139,PED-594760,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1351,18.9,2671,188,109,48,0,1,"No Prazo",0,0,0.61
+LOG-0140,PED-652403,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1179,14.8,100,174,92,37,0,1,"No Prazo",0,0,0.45
+LOG-0141,PED-168148,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1341,6.1,3301,157,105,40,0,0,"No Prazo",0,0,0.38
+LOG-0142,PED-407361,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1012,14.2,139,147,90,19,0,0,"No Prazo",0,0,0.17
+LOG-0143,PED-513240,"Rota Ágil","Campinas (CD-02)","Sudeste",317,9,2525,86,53,12,0,0,"No Prazo",0,0,0.15
+LOG-0144,PED-185787,"Rota Ágil","Extrema (CD-03)","Nordeste",1493,15,74,196,122,31,0,0,"No Prazo",0,0,0.31
+LOG-0145,PED-925000,"LogExpress","Campinas (CD-02)","Sudeste",345,20.6,5333,116,52,12,0,0,"No Prazo",0,0,0.2
+LOG-0146,PED-630879,"Flash Courier","São Paulo (CD-01)","Sul",593,10,85,101,71,12,0,0,"No Prazo",0,0,0.11
+LOG-0147,PED-803425,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1261,11.7,55,161,107,59,1,0,"No Prazo",0,0,0.44
+LOG-0148,PED-374494,"Rota Ágil","Extrema (CD-03)","Sul",797,10.4,85,116,75,45,1,0,"No Prazo",0,0,0.46
+LOG-0149,PED-498109,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",265,3.7,1440,65,49,18,0,1,"No Prazo",0,0,0.42
+LOG-0150,PED-321493,"LogExpress","São Paulo (CD-01)","Sul",792,31.1,3532,191,72,70,1,1,"No Prazo",0,0,0.72
+LOG-0151,PED-114463,"Flash Courier","Campinas (CD-02)","Norte",3373,4.6,496,315,152,82,0,1,"No Prazo",0,0,0.59
+LOG-0152,PED-906597,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1368,1.3,181,141,94,31,0,0,"No Prazo",0,0,0.24
+LOG-0153,PED-962476,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",305,14.4,2318,98,51,12,0,0,"No Prazo",0,0,0.29
+LOG-0154,PED-585023,"Flash Courier","Campinas (CD-02)","Nordeste",1691,6.2,5354,184,135,38,0,0,"No Prazo",0,0,0.22
+LOG-0155,PED-374236,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",262,1,3934,51,53,20,0,1,"No Prazo",0,0,0.41
+LOG-0156,PED-996693,"LogExpress","Campinas (CD-02)","Centro-Oeste",1079,28.4,3894,210,110,24,0,0,"No Prazo",0,0,0.31
+LOG-0157,PED-499795,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",891,22.7,181,164,93,30,0,1,"No Prazo",0,0,0.45
+LOG-0158,PED-105354,"Flash Courier","Extrema (CD-03)","Centro-Oeste",931,2.6,4410,112,98,19,0,0,"No Prazo",0,0,0.12
+LOG-0159,PED-189012,"LogExpress","Extrema (CD-03)","Norte",3267,17.9,5170,337,161,101,0,1,"No Prazo",0,0,0.71
+LOG-0160,PED-858229,"LogExpress","Campinas (CD-02)","Sudeste",275,0.4,4158,52,51,39,1,0,"No Prazo",0,0,0.36
+LOG-0161,PED-491103,"LogExpress","São Paulo (CD-01)","Sul",846,28.2,1989,178,80,48,1,0,"No Prazo",0,0,0.53
+LOG-0162,PED-268190,"TransBrasil Cargo","São Paulo (CD-01)","Sul",877,12.4,1874,129,65,21,0,0,"No Prazo",0,0,0.35
+LOG-0163,PED-660181,"TransBrasil Cargo","Extrema (CD-03)","Sul",637,3.3,2443,87,71,19,0,0,"No Prazo",0,0,0.29
+LOG-0164,PED-118838,"Rota Ágil","Campinas (CD-02)","Sudeste",353,5.8,59,77,52,12,0,0,"No Prazo",0,0,0.14
+LOG-0165,PED-144162,"Flash Courier","Campinas (CD-02)","Norte",2320,11.7,855,250,185,52,0,0,"No Prazo",0,0,0.31
+LOG-0166,PED-436153,"LogExpress","Campinas (CD-02)","Centro-Oeste",864,8.8,744,124,94,34,0,1,"No Prazo",0,0,0.39
+LOG-0167,PED-326898,"LogExpress","São Paulo (CD-01)","Sudeste",365,15.4,1140,110,46,12,0,0,"No Prazo",0,0,0.18
+LOG-0168,PED-566111,"LogExpress","Extrema (CD-03)","Sudeste",269,26.8,3602,129,51,12,0,0,"No Prazo",0,0,0.21
+LOG-0169,PED-671990,"TransBrasil Cargo","Extrema (CD-03)","Sul",712,19.6,713,138,71,53,1,0,"No Prazo",0,0,0.61
+LOG-0170,PED-429170,"LogExpress","Campinas (CD-02)","Nordeste",2316,20.9,3801,285,133,55,0,0,"No Prazo",0,0,0.43
+LOG-0171,PED-748939,"Flash Courier","Extrema (CD-03)","Sul",973,16.8,864,154,79,24,0,0,"No Prazo",0,0,0.18
+LOG-0172,PED-235374,"LogExpress","Extrema (CD-03)","Nordeste",2190,21.5,728,275,127,89,1,0,"No Prazo",0,0,0.67
+LOG-0173,PED-506211,"LogExpress","Campinas (CD-02)","Centro-Oeste",1214,6.9,853,151,87,34,0,0,"No Prazo",0,0,0.25
+LOG-0174,PED-973202,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",922,1.9,1708,105,96,26,0,0,"No Prazo",0,0,0.31
+LOG-0175,PED-506859,"Rota Ágil","São Paulo (CD-01)","Sudeste",373,6,51,80,53,12,0,0,"No Prazo",0,0,0.15
+LOG-0176,PED-607183,"Flash Courier","São Paulo (CD-01)","Sudeste",294,15.4,1109,102,44,26,0,1,"No Prazo",0,0,0.27
+LOG-0177,PED-386122,"LogExpress","São Paulo (CD-01)","Sudeste",340,10.3,3512,88,44,30,1,0,"No Prazo",0,0,0.41
+LOG-0178,PED-945385,"Rota Ágil","Campinas (CD-02)","Sudeste",375,19.6,649,124,47,12,0,0,"No Prazo",0,0,0.2
+LOG-0179,PED-240154,"Flash Courier","Campinas (CD-02)","Sul",648,1.7,3144,81,80,12,0,0,"No Prazo",0,0,0.08
+LOG-0180,PED-501589,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",884,23,1885,164,90,27,0,0,"No Prazo",0,0,0.39
+LOG-0181,PED-529691,"Rota Ágil","Extrema (CD-03)","Sudeste",296,3.6,1313,66,43,12,0,0,"No Prazo",0,0,0.13
+LOG-0182,PED-924459,"Flash Courier","Campinas (CD-02)","Sudeste",328,3.5,131,59,44,12,0,0,"No Prazo",0,0,0.05
+LOG-0183,PED-485895,"LogExpress","Extrema (CD-03)","Sul",735,8.5,211,117,82,34,0,1,"No Prazo",0,0,0.38
+LOG-0184,PED-575482,"LogExpress","Campinas (CD-02)","Sul",771,4.3,1429,99,79,27,0,1,"No Prazo",0,0,0.37
+LOG-0185,PED-306504,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",266,21.3,5212,112,55,25,0,1,"No Prazo",0,0,0.49
+LOG-0186,PED-992851,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",288,7.7,3687,66,47,12,0,0,"No Prazo",0,0,0.26
+LOG-0187,PED-162619,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1269,6.8,99,151,94,35,0,0,"No Prazo",0,0,0.37
+LOG-0188,PED-299054,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",2385,12.1,3423,257,113,68,0,0,"No Prazo",0,0,0.52
+LOG-0189,PED-202156,"Rota Ágil","Extrema (CD-03)","Sudeste",301,12.4,1688,90,50,25,1,0,"No Prazo",0,0,0.41
+LOG-0190,PED-866049,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",867,0.6,135,91,91,23,0,0,"No Prazo",0,0,0.18
+LOG-0191,PED-749706,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1257,32.9,5297,232,95,31,0,0,"No Prazo",0,0,0.27
+LOG-0192,PED-300030,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",296,32,3499,152,47,12,0,0,"No Prazo",0,0,0.35
+LOG-0193,PED-117021,"LogExpress","Extrema (CD-03)","Sudeste",309,17.5,358,108,51,17,0,1,"No Prazo",0,0,0.36
+LOG-0194,PED-405682,"TransBrasil Cargo","Campinas (CD-02)","Sul",898,34,2044,199,67,22,0,0,"No Prazo",0,0,0.43
+LOG-0195,PED-769895,"LogExpress","Campinas (CD-02)","Centro-Oeste",831,18,104,145,110,58,1,1,"No Prazo",0,0,0.67
+LOG-0196,PED-754533,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",365,19.7,150,117,54,14,0,0,"No Prazo",0,0,0.32
+LOG-0197,PED-579857,"TransBrasil Cargo","São Paulo (CD-01)","Sul",708,5.5,409,97,73,17,0,0,"No Prazo",0,0,0.3
+LOG-0198,PED-671847,"Rota Ágil","Extrema (CD-03)","Sudeste",299,19.1,50,110,49,12,0,0,"No Prazo",0,0,0.19
+LOG-0199,PED-730505,"LogExpress","Extrema (CD-03)","Sudeste",337,9.7,65,82,49,12,0,0,"No Prazo",0,0,0.16
+LOG-0200,PED-455829,"Flash Courier","Campinas (CD-02)","Norte",3131,5,71,297,162,98,1,0,"No Prazo",0,0,0.63
+LOG-0201,PED-766018,"LogExpress","Campinas (CD-02)","Sudeste",386,18.9,1465,116,49,20,0,1,"No Prazo",0,0,0.38
+LOG-0202,PED-581531,"Flash Courier","São Paulo (CD-01)","Nordeste",2084,0.4,2880,200,127,45,0,0,"No Prazo",0,0,0.24
+LOG-0203,PED-401300,"Rota Ágil","Extrema (CD-03)","Norte",2901,0.5,2907,252,181,64,0,0,"No Prazo",0,0,0.42
+LOG-0204,PED-287735,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",860,3.3,145,103,102,24,0,0,"No Prazo",0,0,0.31
+LOG-0205,PED-840837,"TransBrasil Cargo","São Paulo (CD-01)","Norte",3403,4.7,2141,315,155,147,1,1,"No Prazo",0,0,0.95
+LOG-0206,PED-512511,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2284,15.1,2835,263,135,66,0,0,"No Prazo",0,0,0.52
+LOG-0207,PED-260057,"TransBrasil Cargo","São Paulo (CD-01)","Sul",770,26.9,249,178,76,24,0,0,"No Prazo",0,0,0.39
+LOG-0208,PED-174270,"Rota Ágil","Extrema (CD-03)","Sudeste",269,0.6,244,48,55,27,0,1,"No Prazo",0,0,0.29
+LOG-0209,PED-344645,"TransBrasil Cargo","Campinas (CD-02)","Sul",934,6.2,1505,122,67,34,0,1,"No Prazo",0,0,0.51
+LOG-0210,PED-809232,"Flash Courier","Campinas (CD-02)","Sudeste",305,16,423,102,48,12,0,0,"No Prazo",0,0,0.1
+LOG-0211,PED-451222,"Rota Ágil","Campinas (CD-02)","Sudeste",393,10.5,1485,85,54,13,0,0,"No Prazo",0,0,0.17
+LOG-0212,PED-959880,"Flash Courier","São Paulo (CD-01)","Nordeste",2140,22.5,68,270,120,67,1,0,"No Prazo",0,0,0.58
+LOG-0213,PED-527013,"LogExpress","Extrema (CD-03)","Sudeste",259,13,1810,91,51,18,0,1,"No Prazo",0,0,0.34
+LOG-0214,PED-382804,"Rota Ágil","Campinas (CD-02)","Sudeste",353,19.8,828,119,50,18,0,1,"No Prazo",0,0,0.38
+LOG-0215,PED-507808,"Flash Courier","Extrema (CD-03)","Sudeste",356,1.4,1889,66,54,12,0,0,"No Prazo",0,0,0.05
+LOG-0216,PED-424799,"Rota Ágil","São Paulo (CD-01)","Sul",683,16.2,149,133,66,30,0,1,"No Prazo",0,0,0.4
+LOG-0217,PED-546793,"Flash Courier","Campinas (CD-02)","Norte",2926,34.5,5345,366,189,66,0,0,"No Prazo",0,0,0.47
+LOG-0218,PED-411006,"TransBrasil Cargo","Extrema (CD-03)","Sul",795,23.9,4735,160,81,22,0,0,"No Prazo",0,0,0.38
+LOG-0219,PED-141886,"LogExpress","São Paulo (CD-01)","Sul",688,3.2,64,90,67,25,0,1,"No Prazo",0,0,0.35
+LOG-0220,PED-655316,"LogExpress","Extrema (CD-03)","Sudeste",398,0.5,4201,57,45,12,0,0,"No Prazo",0,0,0.13
+LOG-0221,PED-600084,"TransBrasil Cargo","Extrema (CD-03)","Sul",855,11.4,51,126,77,27,0,0,"No Prazo",0,0,0.34
+LOG-0222,PED-611520,"TransBrasil Cargo","Campinas (CD-02)","Sul",595,2.5,1780,80,67,54,1,1,"No Prazo",0,0,0.71
+LOG-0223,PED-501250,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",927,11,50,136,93,21,0,0,"No Prazo",0,0,0.23
+LOG-0224,PED-207129,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1127,3.6,115,128,107,31,0,0,"No Prazo",0,0,0.34
+LOG-0225,PED-379675,"Flash Courier","Campinas (CD-02)","Sudeste",291,4.7,69,65,48,12,0,0,"No Prazo",0,0,0.05
+LOG-0226,PED-718888,"LogExpress","Extrema (CD-03)","Sudeste",267,5,1588,61,50,18,0,1,"No Prazo",0,0,0.31
+LOG-0227,PED-762179,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1354,2.1,1700,134,103,48,0,1,"No Prazo",0,0,0.55
+LOG-0228,PED-624683,"Flash Courier","Extrema (CD-03)","Nordeste",2135,24.4,1205,276,130,51,0,0,"No Prazo",0,0,0.34
+LOG-0229,PED-991674,"LogExpress","Extrema (CD-03)","Centro-Oeste",1218,24.6,1504,204,94,33,0,0,"No Prazo",0,0,0.31
+LOG-0230,PED-425331,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",388,2.8,4178,67,43,12,0,0,"No Prazo",0,0,0.26
+LOG-0231,PED-425655,"Flash Courier","Extrema (CD-03)","Sudeste",398,19.3,231,112,48,22,0,1,"No Prazo",0,0,0.3
+LOG-0232,PED-896261,"LogExpress","Extrema (CD-03)","Sul",950,1.2,2289,102,76,27,0,0,"No Prazo",0,0,0.2
+LOG-0233,PED-643807,"LogExpress","Campinas (CD-02)","Sudeste",331,6.2,125,67,48,12,0,0,"No Prazo",0,0,0.14
+LOG-0234,PED-558020,"Flash Courier","São Paulo (CD-01)","Norte",2530,13.2,122,275,182,60,0,0,"No Prazo",0,0,0.34
+LOG-0235,PED-338900,"LogExpress","Extrema (CD-03)","Sudeste",356,7.3,533,83,48,12,0,0,"No Prazo",0,0,0.15
+LOG-0236,PED-586446,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",333,11.8,652,97,43,13,0,0,"No Prazo",0,0,0.28
+LOG-0237,PED-100659,"LogExpress","Campinas (CD-02)","Sul",783,15.6,4344,143,70,24,0,0,"No Prazo",0,0,0.23
+LOG-0238,PED-381539,"Rota Ágil","São Paulo (CD-01)","Sudeste",269,5.7,2175,60,53,12,0,0,"No Prazo",0,0,0.13
+LOG-0239,PED-229085,"LogExpress","Campinas (CD-02)","Sudeste",281,6.2,296,67,47,12,0,0,"No Prazo",0,0,0.14
+LOG-0240,PED-243298,"LogExpress","Extrema (CD-03)","Nordeste",1860,5.7,613,193,122,48,0,0,"No Prazo",0,0,0.32
+LOG-0241,PED-124178,"LogExpress","Campinas (CD-02)","Sudeste",288,33.1,2120,148,54,12,0,0,"No Prazo",0,0,0.24
+LOG-0242,PED-471724,"Rota Ágil","Campinas (CD-02)","Sul",819,27.7,3217,181,70,31,0,1,"No Prazo",0,0,0.46
+LOG-0243,PED-894876,"Rota Ágil","Extrema (CD-03)","Norte",3194,7.8,4725,303,157,73,0,0,"No Prazo",0,0,0.48
+LOG-0244,PED-156311,"LogExpress","Campinas (CD-02)","Sudeste",279,3.8,2291,62,52,33,1,0,"No Prazo",0,0,0.38
+LOG-0245,PED-220898,"Flash Courier","Campinas (CD-02)","Sudeste",396,8,4911,87,53,12,0,0,"No Prazo",0,0,0.08
+LOG-0246,PED-462889,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",931,32.9,4090,198,110,28,0,0,"No Prazo",0,0,0.43
+LOG-0247,PED-671547,"Rota Ágil","Campinas (CD-02)","Sudeste",336,29.3,77,141,46,12,0,0,"No Prazo",0,0,0.23
+LOG-0248,PED-546871,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2295,30,385,310,112,87,1,0,"No Prazo",0,0,0.83
+LOG-0249,PED-794560,"LogExpress","Campinas (CD-02)","Sul",844,0.6,2179,95,77,38,0,1,"No Prazo",0,0,0.36
+LOG-0250,PED-697573,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",910,4.3,4803,108,92,23,0,0,"No Prazo",0,0,0.2
+LOG-0251,PED-667341,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",275,10,105,79,49,12,0,0,"No Prazo",0,0,0.27
+LOG-0252,PED-703777,"Rota Ágil","Extrema (CD-03)","Sudeste",386,27.3,2572,151,50,27,1,0,"No Prazo",0,0,0.48
+LOG-0253,PED-170447,"LogExpress","Campinas (CD-02)","Nordeste",1553,5.1,1324,161,126,40,0,0,"No Prazo",0,0,0.28
+LOG-0254,PED-587438,"Flash Courier","Extrema (CD-03)","Nordeste",2282,19.8,1982,278,126,54,0,0,"No Prazo",0,0,0.34
+LOG-0255,PED-971095,"Flash Courier","São Paulo (CD-01)","Sudeste",364,11.2,50,92,51,39,1,0,"No Prazo",0,0,0.33
+LOG-0256,PED-615312,"Flash Courier","São Paulo (CD-01)","Sul",739,6.3,3235,104,75,16,0,0,"No Prazo",0,0,0.11
+LOG-0257,PED-546192,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1472,6.3,117,166,120,42,0,0,"No Prazo",0,0,0.4
+LOG-0258,PED-943738,"Rota Ágil","Campinas (CD-02)","Sudeste",245,17.3,582,108,46,20,0,1,"No Prazo",0,0,0.35
+LOG-0259,PED-646057,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",388,0.5,50,60,43,12,0,0,"No Prazo",0,0,0.25
+LOG-0260,PED-557492,"LogExpress","Campinas (CD-02)","Norte",3302,31.4,1140,388,178,87,0,1,"No Prazo",0,0,0.76
+LOG-0261,PED-551246,"Flash Courier","São Paulo (CD-01)","Sudeste",351,32.8,50,163,53,14,0,1,"No Prazo",0,0,0.34
+LOG-0262,PED-536435,"Flash Courier","São Paulo (CD-01)","Norte",2439,4.6,90,238,153,56,0,0,"No Prazo",0,0,0.3
+LOG-0263,PED-908981,"Flash Courier","Extrema (CD-03)","Sudeste",380,29.9,418,153,45,15,0,1,"No Prazo",0,0,0.34
+LOG-0264,PED-146716,"LogExpress","Extrema (CD-03)","Sul",770,32.3,455,196,75,23,0,0,"No Prazo",0,0,0.29
+LOG-0265,PED-633152,"LogExpress","Campinas (CD-02)","Sudeste",347,25.3,719,140,45,29,0,1,"No Prazo",0,0,0.4
+LOG-0266,PED-737322,"Flash Courier","Extrema (CD-03)","Sudeste",329,10.5,4128,82,54,22,0,1,"No Prazo",0,0,0.26
+LOG-0267,PED-507928,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1041,9.5,1653,137,102,54,1,0,"No Prazo",0,0,0.49
+LOG-0268,PED-658858,"Flash Courier","São Paulo (CD-01)","Sul",733,18.1,5077,135,76,29,0,1,"No Prazo",0,0,0.33
+LOG-0269,PED-170667,"Flash Courier","São Paulo (CD-01)","Sudeste",296,3.6,93,58,52,40,1,0,"No Prazo",0,0,0.3
+LOG-0270,PED-390578,"LogExpress","Extrema (CD-03)","Sudeste",397,7.5,4281,85,53,12,0,0,"No Prazo",0,0,0.15
+LOG-0271,PED-379791,"Flash Courier","Campinas (CD-02)","Nordeste",2215,18.8,5094,262,116,60,0,1,"No Prazo",0,0,0.51
+LOG-0272,PED-368915,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",339,2.8,1919,54,54,12,0,0,"No Prazo",0,0,0.25
+LOG-0273,PED-672017,"Flash Courier","Campinas (CD-02)","Sudeste",373,5.4,3483,76,48,12,0,0,"No Prazo",0,0,0.06
+LOG-0274,PED-441786,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",241,34,3045,147,44,12,0,0,"No Prazo",0,0,0.36
+LOG-0275,PED-278221,"LogExpress","Campinas (CD-02)","Sudeste",370,23.7,98,134,50,22,0,1,"No Prazo",0,0,0.39
+LOG-0276,PED-378225,"Flash Courier","São Paulo (CD-01)","Nordeste",1923,11.3,444,218,115,44,0,0,"No Prazo",0,0,0.27
+LOG-0277,PED-895216,"TransBrasil Cargo","Campinas (CD-02)","Norte",3083,18.5,1372,337,152,87,0,0,"No Prazo",0,0,0.63
+LOG-0278,PED-478873,"Flash Courier","Campinas (CD-02)","Sul",601,3.7,50,93,80,14,0,0,"No Prazo",0,0,0.08
+LOG-0279,PED-629197,"LogExpress","Extrema (CD-03)","Sul",690,30.6,1376,180,73,20,0,0,"No Prazo",0,0,0.28
+LOG-0280,PED-146188,"Flash Courier","São Paulo (CD-01)","Sul",591,4.8,2046,86,73,31,0,1,"No Prazo",0,0,0.27
+LOG-0281,PED-484849,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1574,0.4,53,153,117,69,1,0,"No Prazo",0,0,0.64
+LOG-0282,PED-120501,"LogExpress","Extrema (CD-03)","Norte",2680,2.1,584,252,163,67,0,0,"No Prazo",0,0,0.4
+LOG-0283,PED-731936,"Rota Ágil","São Paulo (CD-01)","Sul",734,11.8,1583,124,71,31,0,1,"No Prazo",0,0,0.39
+LOG-0284,PED-459023,"Flash Courier","Campinas (CD-02)","Sul",873,24.8,1187,181,67,23,0,0,"No Prazo",0,0,0.19
+LOG-0285,PED-251014,"Rota Ágil","Extrema (CD-03)","Nordeste",1908,26.5,4229,266,131,47,0,0,"No Prazo",0,0,0.4
+LOG-0286,PED-909672,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1024,4.1,1932,118,97,23,0,0,"No Prazo",0,0,0.13
+LOG-0287,PED-334996,"Rota Ágil","Extrema (CD-03)","Sudeste",259,23.9,425,122,54,22,0,1,"No Prazo",0,0,0.38
+LOG-0288,PED-695185,"LogExpress","São Paulo (CD-01)","Sudeste",249,13,3242,91,50,12,0,0,"No Prazo",0,0,0.16
+LOG-0289,PED-167731,"LogExpress","Extrema (CD-03)","Nordeste",2160,1.8,4858,207,127,57,0,0,"No Prazo",0,0,0.34
+LOG-0290,PED-706944,"Flash Courier","São Paulo (CD-01)","Sudeste",312,20.5,2210,114,48,12,0,0,"No Prazo",0,0,0.11
+LOG-0291,PED-212824,"LogExpress","São Paulo (CD-01)","Norte",3457,31.1,1445,401,168,126,1,1,"No Prazo",0,0,0.95
+LOG-0292,PED-746072,"LogExpress","Extrema (CD-03)","Sudeste",277,14.1,806,88,46,17,0,1,"No Prazo",0,0,0.35
+LOG-0293,PED-891678,"Rota Ágil","Extrema (CD-03)","Sudeste",318,34.3,1246,164,48,12,0,0,"No Prazo",0,0,0.25
+LOG-0294,PED-339224,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2228,28.8,2108,293,133,59,0,0,"No Prazo",0,0,0.57
+LOG-0295,PED-853437,"Flash Courier","Campinas (CD-02)","Sudeste",265,21.8,468,118,53,12,0,0,"No Prazo",0,0,0.11
+LOG-0296,PED-334317,"Flash Courier","Extrema (CD-03)","Norte",2528,3.5,136,236,158,86,1,0,"No Prazo",0,0,0.56
+LOG-0297,PED-701913,"Flash Courier","Extrema (CD-03)","Centro-Oeste",857,25.2,123,174,90,62,1,1,"No Prazo",0,0,0.62
+LOG-0298,PED-844421,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",343,6.4,929,69,43,12,0,0,"No Prazo",0,0,0.26
+LOG-0299,PED-266967,"Flash Courier","São Paulo (CD-01)","Sudeste",334,13.9,1523,95,52,12,0,0,"No Prazo",0,0,0.09
+LOG-0300,PED-756180,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1154,22.1,180,186,88,37,0,1,"No Prazo",0,0,0.6
+LOG-0301,PED-361971,"Flash Courier","Campinas (CD-02)","Sudeste",332,33.8,2641,163,43,12,0,0,"No Prazo",0,0,0.17
+LOG-0302,PED-865073,"Rota Ágil","Campinas (CD-02)","Sul",848,16.4,124,142,66,52,1,1,"No Prazo",0,0,0.67
+LOG-0303,PED-328414,"Flash Courier","Extrema (CD-03)","Centro-Oeste",982,10.4,588,143,89,57,1,0,"No Prazo",0,0,0.4
+LOG-0304,PED-750177,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1481,7.2,2717,161,125,45,0,1,"No Prazo",0,0,0.58
+LOG-0305,PED-482820,"TransBrasil Cargo","Campinas (CD-02)","Sul",589,4,3065,81,80,17,0,0,"No Prazo",0,0,0.28
+LOG-0306,PED-441477,"LogExpress","Extrema (CD-03)","Sul",899,3.9,2563,113,66,25,0,0,"No Prazo",0,0,0.2
+LOG-0307,PED-966801,"LogExpress","Extrema (CD-03)","Sudeste",312,5.6,1865,72,44,33,1,0,"No Prazo",0,0,0.39
+LOG-0308,PED-918657,"Flash Courier","Campinas (CD-02)","Sul",645,1,5061,80,72,26,0,1,"No Prazo",0,0,0.26
+LOG-0309,PED-275837,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",388,0.4,5427,61,53,23,0,1,"No Prazo",0,0,0.43
+LOG-0310,PED-718896,"LogExpress","Campinas (CD-02)","Centro-Oeste",1153,2.6,2413,125,93,43,0,1,"No Prazo",0,0,0.4
+LOG-0311,PED-895057,"Flash Courier","São Paulo (CD-01)","Sudeste",376,29.2,4465,144,51,27,0,1,"No Prazo",0,0,0.33
+LOG-0312,PED-218209,"Rota Ágil","Extrema (CD-03)","Sul",624,29,3901,161,82,28,0,1,"No Prazo",0,0,0.44
+LOG-0313,PED-568908,"LogExpress","São Paulo (CD-01)","Nordeste",1536,28.6,2583,245,129,42,0,0,"No Prazo",0,0,0.37
+LOG-0314,PED-844232,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",258,0.4,543,44,52,20,0,1,"No Prazo",0,0,0.41
+LOG-0315,PED-650254,"Rota Ágil","São Paulo (CD-01)","Sul",926,12.3,4031,135,65,26,0,0,"No Prazo",0,0,0.23
+LOG-0316,PED-372800,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",263,0.9,551,54,44,12,0,0,"No Prazo",0,0,0.23
+LOG-0317,PED-262013,"Flash Courier","Extrema (CD-03)","Norte",2840,14.6,455,293,182,64,0,0,"No Prazo",0,0,0.39
+LOG-0318,PED-917893,"Flash Courier","Extrema (CD-03)","Sudeste",333,21,1048,123,51,12,0,0,"No Prazo",0,0,0.12
+LOG-0319,PED-240439,"Flash Courier","Campinas (CD-02)","Sudeste",252,2,1079,52,51,12,0,0,"No Prazo",0,0,0.04
+LOG-0320,PED-629652,"Rota Ágil","Campinas (CD-02)","Sul",835,13.5,5093,128,68,20,0,0,"No Prazo",0,0,0.23
+LOG-0321,PED-885532,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",392,14.7,2502,110,44,15,0,0,"No Prazo",0,0,0.3
+LOG-0322,PED-708078,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",347,31.2,341,159,53,13,0,0,"No Prazo",0,0,0.36
+LOG-0323,PED-697291,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1077,2.7,580,122,93,22,0,0,"No Prazo",0,0,0.22
+LOG-0324,PED-553171,"TransBrasil Cargo","São Paulo (CD-01)","Norte",3547,1.4,1876,318,152,111,0,1,"No Prazo",0,0,0.8
+LOG-0325,PED-839517,"Flash Courier","Campinas (CD-02)","Nordeste",1803,18.5,5291,232,115,51,0,1,"No Prazo",0,0,0.46
+LOG-0326,PED-461743,"Flash Courier","Extrema (CD-03)","Sul",714,30.8,73,187,82,15,0,0,"No Prazo",0,0,0.2
+LOG-0327,PED-145401,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",264,3.9,2700,58,50,12,0,0,"No Prazo",0,0,0.25
+LOG-0328,PED-395725,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",372,19.2,503,117,54,14,0,0,"No Prazo",0,0,0.32
+LOG-0329,PED-912716,"LogExpress","São Paulo (CD-01)","Sul",591,28.1,1479,166,77,19,0,0,"No Prazo",0,0,0.25
+LOG-0330,PED-496373,"Flash Courier","São Paulo (CD-01)","Sudeste",303,8.9,54,83,50,23,0,1,"No Prazo",0,0,0.25
+LOG-0331,PED-123923,"TransBrasil Cargo","São Paulo (CD-01)","Sul",627,10.8,1102,105,65,14,0,0,"No Prazo",0,0,0.31
+LOG-0332,PED-454803,"Rota Ágil","São Paulo (CD-01)","Sudeste",320,15.3,343,94,54,18,0,1,"No Prazo",0,0,0.35
+LOG-0333,PED-193233,"Flash Courier","São Paulo (CD-01)","Sudeste",245,28,246,140,48,12,0,0,"No Prazo",0,0,0.13
+LOG-0334,PED-738001,"Flash Courier","São Paulo (CD-01)","Sudeste",304,0.5,5524,49,51,12,0,0,"No Prazo",0,0,0.04
+LOG-0335,PED-449436,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1045,6.8,302,126,103,78,1,1,"No Prazo",0,0,0.78
+LOG-0336,PED-889166,"Rota Ágil","Extrema (CD-03)","Sul",782,33.8,462,193,68,20,0,0,"No Prazo",0,0,0.3
+LOG-0337,PED-295046,"Rota Ágil","Extrema (CD-03)","Sudeste",326,6.9,59,80,48,12,0,0,"No Prazo",0,0,0.14
+LOG-0338,PED-167592,"Flash Courier","Extrema (CD-03)","Sudeste",396,1,2425,63,51,21,0,1,"No Prazo",0,0,0.23
+LOG-0339,PED-988661,"LogExpress","Extrema (CD-03)","Sul",889,23.5,100,171,65,19,0,0,"No Prazo",0,0,0.27
+LOG-0340,PED-375096,"LogExpress","São Paulo (CD-01)","Centro-Oeste",873,1.1,5023,100,87,32,0,1,"No Prazo",0,0,0.37
+LOG-0341,PED-962600,"Flash Courier","Campinas (CD-02)","Sul",697,28.2,2497,173,69,28,0,1,"No Prazo",0,0,0.37
+LOG-0342,PED-116539,"LogExpress","São Paulo (CD-01)","Norte",2922,6.8,639,281,187,70,0,0,"No Prazo",0,0,0.45
+LOG-0343,PED-864085,"Flash Courier","Campinas (CD-02)","Nordeste",2075,7.4,4676,220,119,48,0,0,"No Prazo",0,0,0.27
+LOG-0344,PED-878298,"TransBrasil Cargo","Extrema (CD-03)","Sul",889,6.8,54,125,74,26,0,0,"No Prazo",0,0,0.33
+LOG-0345,PED-759178,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1195,0.4,610,121,109,44,0,1,"No Prazo",0,0,0.52
+LOG-0346,PED-235108,"TransBrasil Cargo","São Paulo (CD-01)","Norte",3434,9.2,5388,327,157,107,0,1,"No Prazo",0,0,0.82
+LOG-0347,PED-871917,"Flash Courier","Campinas (CD-02)","Centro-Oeste",896,4.3,791,116,99,51,1,1,"No Prazo",0,0,0.55
+LOG-0348,PED-513962,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",351,7.3,1443,82,44,24,0,1,"No Prazo",0,0,0.45
+LOG-0349,PED-169521,"Flash Courier","Extrema (CD-03)","Norte",2831,2.9,529,256,180,78,0,1,"No Prazo",0,0,0.52
+LOG-0350,PED-908182,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1024,0.5,192,103,103,26,0,0,"No Prazo",0,0,0.32
+LOG-0351,PED-372395,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2018,20.8,2430,249,124,90,1,0,"No Prazo",0,0,0.76
+LOG-0352,PED-355270,"TransBrasil Cargo","Campinas (CD-02)","Sul",614,5.4,3363,95,73,16,0,0,"No Prazo",0,0,0.29
+LOG-0353,PED-133371,"LogExpress","São Paulo (CD-01)","Nordeste",2149,27.9,930,291,120,72,1,0,"No Prazo",0,0,0.69
+LOG-0354,PED-274347,"LogExpress","São Paulo (CD-01)","Sudeste",388,22,1801,127,43,19,0,1,"No Prazo",0,0,0.39
+LOG-0355,PED-273425,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",326,14.8,1121,92,55,13,0,0,"No Prazo",0,0,0.29
+LOG-0356,PED-612638,"LogExpress","São Paulo (CD-01)","Sudeste",301,15.2,4613,103,45,12,0,0,"No Prazo",0,0,0.17
+LOG-0357,PED-818518,"Flash Courier","Campinas (CD-02)","Nordeste",2408,3.5,1809,222,125,70,0,1,"No Prazo",0,0,0.47
+LOG-0358,PED-184031,"Flash Courier","Campinas (CD-02)","Norte",2416,0.7,468,214,160,53,0,0,"No Prazo",0,0,0.28
+LOG-0359,PED-903800,"LogExpress","São Paulo (CD-01)","Sudeste",255,0.9,478,42,47,29,1,0,"No Prazo",0,0,0.36
+LOG-0360,PED-469081,"TransBrasil Cargo","Extrema (CD-03)","Sul",705,18.3,997,136,78,19,0,0,"No Prazo",0,0,0.35
+LOG-0361,PED-469405,"Rota Ágil","São Paulo (CD-01)","Sudeste",299,1.9,2982,58,45,20,0,1,"No Prazo",0,0,0.3
+LOG-0362,PED-115011,"TransBrasil Cargo","São Paulo (CD-01)","Norte",2708,17.6,451,306,170,78,0,0,"No Prazo",0,0,0.58
+LOG-0363,PED-762557,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",843,30.3,3133,196,91,26,0,0,"No Prazo",0,0,0.41
+LOG-0364,PED-676770,"Rota Ágil","Campinas (CD-02)","Sudeste",359,1.2,3111,58,50,12,0,0,"No Prazo",0,0,0.13
+LOG-0365,PED-457650,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",270,32.5,4791,152,46,12,0,0,"No Prazo",0,0,0.35
+LOG-0366,PED-705196,"Flash Courier","Campinas (CD-02)","Centro-Oeste",849,0.8,5148,99,106,23,0,0,"No Prazo",0,0,0.1
+LOG-0367,PED-219409,"LogExpress","Extrema (CD-03)","Norte",3524,1.9,1512,314,154,85,0,0,"No Prazo",0,0,0.5
+LOG-0368,PED-500289,"Rota Ágil","Campinas (CD-02)","Sul",836,29.3,404,191,76,16,0,0,"No Prazo",0,0,0.29
+LOG-0369,PED-347835,"TransBrasil Cargo","Extrema (CD-03)","Sul",866,30.4,3963,187,67,37,0,1,"No Prazo",0,0,0.6
+LOG-0370,PED-404320,"LogExpress","São Paulo (CD-01)","Nordeste",2340,32.4,439,313,131,56,0,0,"No Prazo",0,0,0.47
+LOG-0371,PED-365756,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1106,3.2,3227,127,105,25,0,0,"No Prazo",0,0,0.14
+LOG-0372,PED-993858,"Flash Courier","Extrema (CD-03)","Sudeste",307,6.9,643,66,47,12,0,1,"No Prazo",0,0,0.24
+LOG-0373,PED-205667,"LogExpress","Campinas (CD-02)","Sudeste",249,16,138,89,45,26,1,0,"No Prazo",0,0,0.42
+LOG-0374,PED-125578,"Flash Courier","Extrema (CD-03)","Nordeste",1807,8.8,1917,192,134,47,0,1,"No Prazo",0,0,0.42
+LOG-0375,PED-167480,"Flash Courier","Campinas (CD-02)","Sudeste",358,17.1,3767,106,50,12,0,0,"No Prazo",0,0,0.11
+LOG-0376,PED-703915,"TransBrasil Cargo","Extrema (CD-03)","Sul",841,31.1,5068,185,75,21,0,0,"No Prazo",0,0,0.41
+LOG-0377,PED-107017,"Flash Courier","São Paulo (CD-01)","Sul",924,0.5,195,105,66,53,1,0,"No Prazo",0,0,0.36
+LOG-0378,PED-479243,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",349,1.1,88,61,51,19,0,1,"No Prazo",0,0,0.42
+LOG-0379,PED-334571,"TransBrasil Cargo","Extrema (CD-03)","Sul",767,19.5,548,145,66,52,1,1,"No Prazo",0,0,0.79
+LOG-0380,PED-958097,"LogExpress","Extrema (CD-03)","Sudeste",297,14.7,3784,91,44,19,0,1,"No Prazo",0,0,0.35
+LOG-0381,PED-432175,"LogExpress","Campinas (CD-02)","Sul",733,27.7,126,167,73,20,0,0,"No Prazo",0,0,0.27
+LOG-0382,PED-771388,"Flash Courier","São Paulo (CD-01)","Sul",673,28.2,1947,176,76,33,0,1,"No Prazo",0,0,0.36
+LOG-0383,PED-364679,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1111,3.1,112,118,92,27,0,0,"No Prazo",0,0,0.14
+LOG-0384,PED-717781,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1075,21.2,798,180,90,38,0,1,"No Prazo",0,0,0.38
+LOG-0385,PED-144174,"Flash Courier","Extrema (CD-03)","Sudeste",364,6.3,1852,70,48,30,1,0,"No Prazo",0,0,0.32
+LOG-0386,PED-903668,"Flash Courier","Extrema (CD-03)","Norte",3253,30.8,140,378,192,71,0,0,"No Prazo",0,0,0.5
+LOG-0387,PED-317881,"Rota Ágil","Extrema (CD-03)","Sudeste",283,3.1,1833,58,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0388,PED-498761,"LogExpress","Campinas (CD-02)","Sul",778,2.1,262,92,69,35,0,1,"No Prazo",0,0,0.36
+LOG-0389,PED-299691,"Rota Ágil","Campinas (CD-02)","Sudeste",308,17.7,325,113,48,12,0,0,"No Prazo",0,0,0.18
+LOG-0390,PED-694459,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1171,17.5,4174,172,98,39,0,1,"No Prazo",0,0,0.38
+LOG-0391,PED-370158,"LogExpress","São Paulo (CD-01)","Sudeste",377,30.3,5095,151,49,22,0,1,"No Prazo",0,0,0.42
+LOG-0392,PED-520625,"LogExpress","Campinas (CD-02)","Nordeste",1501,13.5,3403,190,137,48,0,1,"No Prazo",0,0,0.49
+LOG-0393,PED-159749,"Flash Courier","Campinas (CD-02)","Nordeste",2271,6.5,52,221,134,49,0,0,"No Prazo",0,0,0.29
+LOG-0394,PED-762851,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",300,25.5,1760,125,52,12,0,0,"No Prazo",0,0,0.33
+LOG-0395,PED-832619,"TransBrasil Cargo","Extrema (CD-03)","Sul",930,23.8,3921,180,78,29,0,0,"No Prazo",0,0,0.4
+LOG-0396,PED-969054,"TransBrasil Cargo","Extrema (CD-03)","Sul",595,32.6,1581,181,75,38,1,0,"No Prazo",0,0,0.64
+LOG-0397,PED-119058,"LogExpress","São Paulo (CD-01)","Sudeste",394,4.2,2348,78,53,12,0,0,"No Prazo",0,0,0.14
+LOG-0398,PED-936049,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1937,23.5,275,256,136,54,0,0,"No Prazo",0,0,0.51
+LOG-0399,PED-819706,"Rota Ágil","Extrema (CD-03)","Nordeste",1654,19,66,226,112,39,0,0,"No Prazo",0,0,0.34
+LOG-0400,PED-370030,"Rota Ágil","Extrema (CD-03)","Sudeste",361,18.3,4210,119,44,12,0,0,"No Prazo",0,0,0.19
+LOG-0401,PED-187021,"Flash Courier","Campinas (CD-02)","Sul",912,7.6,594,116,71,22,0,0,"No Prazo",0,0,0.13
+LOG-0402,PED-870679,"Rota Ágil","São Paulo (CD-01)","Sudeste",257,12.3,67,78,52,12,0,0,"No Prazo",0,0,0.16
+LOG-0403,PED-321003,"LogExpress","Extrema (CD-03)","Sul",672,21.5,3224,148,81,53,1,0,"No Prazo",0,0,0.49
+LOG-0404,PED-470775,"Rota Ágil","Extrema (CD-03)","Nordeste",2148,0.9,255,200,114,50,0,0,"No Prazo",0,0,0.33
+LOG-0405,PED-268321,"Flash Courier","Campinas (CD-02)","Sul",608,19.9,2960,132,71,27,0,1,"No Prazo",0,0,0.33
+LOG-0406,PED-895640,"Flash Courier","Campinas (CD-02)","Sul",708,22.8,1167,149,80,20,0,0,"No Prazo",0,0,0.17
+LOG-0407,PED-207075,"Rota Ágil","Campinas (CD-02)","Sul",795,0.4,322,85,79,17,0,0,"No Prazo",0,0,0.17
+LOG-0408,PED-185177,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",249,1,76,43,46,50,1,1,"Atrasado",4,65,0.66
+LOG-0409,PED-236018,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1185,22.7,4688,188,101,27,0,0,"No Prazo",0,0,0.3
+LOG-0410,PED-908564,"TransBrasil Cargo","Campinas (CD-02)","Sul",838,19.5,1043,154,65,50,1,1,"No Prazo",0,0,0.8
+LOG-0411,PED-152924,"LogExpress","Extrema (CD-03)","Sul",760,9.2,87,110,78,23,0,0,"No Prazo",0,0,0.2
+LOG-0412,PED-486581,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",346,28,1088,136,48,12,0,0,"No Prazo",0,0,0.35
+LOG-0413,PED-486905,"Flash Courier","Extrema (CD-03)","Norte",3167,6,3140,298,186,70,0,0,"No Prazo",0,0,0.39
+LOG-0414,PED-753896,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",992,13.8,2701,143,102,25,0,0,"No Prazo",0,0,0.25
+LOG-0415,PED-987554,"Flash Courier","São Paulo (CD-01)","Sudeste",251,2.7,4863,56,50,12,0,0,"No Prazo",0,0,0.04
+LOG-0416,PED-887878,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",2132,30.9,157,296,114,86,1,0,"No Prazo",0,0,0.81
+LOG-0417,PED-325150,"LogExpress","Campinas (CD-02)","Centro-Oeste",1031,33.7,3407,212,104,35,0,1,"No Prazo",0,0,0.51
+LOG-0418,PED-342746,"Rota Ágil","São Paulo (CD-01)","Sudeste",257,24.6,855,122,55,12,0,0,"No Prazo",0,0,0.2
+LOG-0419,PED-937515,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",271,6.2,386,68,50,19,0,1,"No Prazo",0,0,0.43
+LOG-0420,PED-129880,"LogExpress","Extrema (CD-03)","Nordeste",1566,11.2,151,179,113,68,1,1,"No Prazo",0,0,0.73
+LOG-0421,PED-916369,"Rota Ágil","Extrema (CD-03)","Nordeste",2091,34,1076,306,112,72,1,0,"No Prazo",0,0,0.7
+LOG-0422,PED-927484,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",897,1.2,2979,94,110,25,0,0,"No Prazo",0,0,0.19
+LOG-0423,PED-577808,"LogExpress","Campinas (CD-02)","Sudeste",262,28.4,2417,136,51,12,0,0,"No Prazo",0,0,0.22
+LOG-0424,PED-494799,"LogExpress","São Paulo (CD-01)","Sul",844,6.7,297,121,79,22,0,0,"No Prazo",0,0,0.2
+LOG-0425,PED-378456,"Rota Ágil","São Paulo (CD-01)","Sul",731,4.3,73,96,82,19,0,0,"No Prazo",0,0,0.18
+LOG-0426,PED-828780,"Rota Ágil","São Paulo (CD-01)","Norte",3470,4,4303,313,188,78,0,0,"No Prazo",0,0,0.5
+LOG-0427,PED-645771,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",243,0.4,628,46,46,22,0,1,"No Prazo",0,0,0.41
+LOG-0428,PED-709432,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",263,0.7,1113,50,49,19,0,1,"No Prazo",0,0,0.41
+LOG-0429,PED-370084,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",363,31.5,3189,153,45,12,0,0,"No Prazo",0,0,0.36
+LOG-0430,PED-381520,"Flash Courier","São Paulo (CD-01)","Sudeste",256,15.2,563,94,49,12,0,1,"No Prazo",0,0,0.27
+LOG-0431,PED-433607,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",910,31.1,1985,197,94,30,0,1,"No Prazo",0,0,0.48
+LOG-0432,PED-577129,"LogExpress","São Paulo (CD-01)","Sudeste",287,5.5,1534,63,55,12,0,0,"No Prazo",0,0,0.13
+LOG-0433,PED-749675,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",250,6.8,1268,65,49,12,0,0,"No Prazo",0,0,0.25
+LOG-0434,PED-188888,"Rota Ágil","São Paulo (CD-01)","Sul",941,7.1,4910,118,76,20,0,0,"No Prazo",0,0,0.22
+LOG-0435,PED-394768,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",320,0.5,1995,50,45,37,1,1,"No Prazo",0,0,0.67
+LOG-0436,PED-694683,"Rota Ágil","Campinas (CD-02)","Norte",2282,12.5,1630,255,171,63,0,1,"No Prazo",0,0,0.57
+LOG-0437,PED-623622,"Flash Courier","Extrema (CD-03)","Sudeste",329,14,68,90,51,12,0,0,"No Prazo",0,0,0.09
+LOG-0438,PED-771168,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",395,32,5337,163,49,43,1,1,"No Prazo",0,0,0.8
+LOG-0439,PED-303028,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",308,2,5090,58,45,12,0,0,"No Prazo",0,0,0.24
+LOG-0440,PED-111685,"Rota Ágil","Extrema (CD-03)","Sudeste",248,0.4,2950,53,47,22,0,1,"No Prazo",0,0,0.29
+LOG-0441,PED-770486,"TransBrasil Cargo","Campinas (CD-02)","Sul",940,9,3402,124,81,23,0,0,"No Prazo",0,0,0.34
+LOG-0442,PED-426365,"LogExpress","Campinas (CD-02)","Sul",800,24.9,3786,167,66,23,0,0,"No Prazo",0,0,0.27
+LOG-0443,PED-548912,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1156,9.6,2898,151,92,42,0,1,"No Prazo",0,0,0.55
+LOG-0444,PED-390814,"Flash Courier","Extrema (CD-03)","Centro-Oeste",879,1.3,3037,107,96,24,0,0,"No Prazo",0,0,0.11
+LOG-0445,PED-327249,"Flash Courier","São Paulo (CD-01)","Sul",721,20.4,277,142,78,18,0,0,"No Prazo",0,0,0.16
+LOG-0446,PED-930351,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2335,2.1,3093,213,125,65,0,0,"No Prazo",0,0,0.48
+LOG-0447,PED-100119,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",305,1.6,53,59,50,12,0,0,"No Prazo",0,0,0.24
+LOG-0448,PED-236554,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",327,4.6,2851,70,48,12,0,0,"No Prazo",0,0,0.26
+LOG-0449,PED-139656,"LogExpress","São Paulo (CD-01)","Centro-Oeste",1364,4.8,1298,152,106,38,0,0,"No Prazo",0,0,0.26
+LOG-0450,PED-409425,"Rota Ágil","São Paulo (CD-01)","Sudeste",300,25.9,5330,128,48,12,0,0,"No Prazo",0,0,0.21
+LOG-0451,PED-745860,"Rota Ágil","Extrema (CD-03)","Sul",743,12.3,4413,118,80,27,0,1,"No Prazo",0,0,0.39
+LOG-0452,PED-387530,"Flash Courier","Campinas (CD-02)","Centro-Oeste",886,28,4398,190,104,27,0,1,"No Prazo",0,0,0.39
+LOG-0453,PED-445636,"LogExpress","São Paulo (CD-01)","Sudeste",336,5.3,4380,63,49,12,0,0,"No Prazo",0,0,0.14
+LOG-0454,PED-643182,"Flash Courier","Extrema (CD-03)","Sudeste",357,0.7,4175,56,52,12,0,0,"No Prazo",0,0,0.04
+LOG-0455,PED-107395,"Flash Courier","São Paulo (CD-01)","Sul",952,22.7,776,176,75,37,0,1,"No Prazo",0,0,0.38
+LOG-0456,PED-690270,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1572,0.5,171,156,113,40,0,0,"No Prazo",0,0,0.39
+LOG-0457,PED-468371,"LogExpress","São Paulo (CD-01)","Sudeste",359,13.5,3329,103,44,12,0,0,"No Prazo",0,0,0.17
+LOG-0458,PED-613140,"LogExpress","Extrema (CD-03)","Sul",716,15.8,153,135,68,21,0,0,"No Prazo",0,0,0.22
+LOG-0459,PED-824575,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2007,27.7,4591,277,112,52,0,0,"No Prazo",0,0,0.54
+LOG-0460,PED-802677,"Rota Ágil","São Paulo (CD-01)","Sudeste",252,33,3183,154,51,17,0,1,"No Prazo",0,0,0.41
+LOG-0461,PED-985320,"Flash Courier","São Paulo (CD-01)","Sul",807,5.5,541,104,72,35,0,1,"No Prazo",0,0,0.29
+LOG-0462,PED-326064,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",294,3,3376,61,44,12,0,0,"No Prazo",0,0,0.25
+LOG-0463,PED-265277,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",305,1.3,3593,56,44,12,0,0,"No Prazo",0,0,0.24
+LOG-0464,PED-971157,"LogExpress","Campinas (CD-02)","Sudeste",274,17,51,95,49,14,0,1,"No Prazo",0,0,0.36
+LOG-0465,PED-778337,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",318,0.7,1696,57,47,12,0,0,"No Prazo",0,0,0.24
+LOG-0466,PED-798105,"Flash Courier","Extrema (CD-03)","Centro-Oeste",975,16.8,3334,160,110,19,0,0,"No Prazo",0,0,0.18
+LOG-0467,PED-884540,"LogExpress","Campinas (CD-02)","Centro-Oeste",1204,7.8,956,154,97,50,0,1,"No Prazo",0,0,0.43
+LOG-0468,PED-905378,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",246,1.1,189,48,54,21,0,1,"No Prazo",0,0,0.41
+LOG-0469,PED-192650,"Flash Courier","São Paulo (CD-01)","Sudeste",330,34.9,2261,170,46,15,0,1,"No Prazo",0,0,0.35
+LOG-0470,PED-960246,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",260,17.3,76,107,47,25,0,1,"No Prazo",0,0,0.48
+LOG-0471,PED-988722,"Flash Courier","Campinas (CD-02)","Sudeste",275,31.3,114,154,53,40,1,1,"No Prazo",0,0,0.58
+LOG-0472,PED-114101,"Rota Ágil","Extrema (CD-03)","Sudeste",345,6,674,67,55,12,0,0,"No Prazo",0,0,0.14
+LOG-0473,PED-183869,"Rota Ágil","Campinas (CD-02)","Sul",649,5.1,2151,98,83,31,0,1,"No Prazo",0,0,0.35
+LOG-0474,PED-944984,"Flash Courier","Campinas (CD-02)","Sudeste",317,4.6,3137,71,51,15,0,1,"No Prazo",0,0,0.23
+LOG-0475,PED-955868,"LogExpress","Extrema (CD-03)","Sul",612,17.7,395,129,79,15,0,0,"No Prazo",0,0,0.22
+LOG-0476,PED-186747,"Flash Courier","São Paulo (CD-01)","Sudeste",332,2.9,3765,61,45,12,0,0,"No Prazo",0,0,0.05
+LOG-0477,PED-784293,"LogExpress","São Paulo (CD-01)","Centro-Oeste",1091,0.8,380,118,98,30,0,0,"No Prazo",0,0,0.21
+LOG-0478,PED-648506,"Flash Courier","Campinas (CD-02)","Sudeste",315,29.3,242,146,49,12,0,0,"No Prazo",0,0,0.15
+LOG-0479,PED-379386,"Flash Courier","Extrema (CD-03)","Sudeste",271,5.5,591,71,52,17,0,1,"No Prazo",0,0,0.23
+LOG-0480,PED-142816,"Flash Courier","Campinas (CD-02)","Sudeste",254,4.2,543,66,54,12,0,0,"No Prazo",0,0,0.05
+LOG-0481,PED-987584,"Rota Ágil","Extrema (CD-03)","Sul",893,23.3,1123,177,73,43,1,0,"No Prazo",0,0,0.52
+LOG-0482,PED-175783,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",316,34.9,5460,168,55,43,1,0,"No Prazo",0,0,0.62
+LOG-0483,PED-288750,"Rota Ágil","Extrema (CD-03)","Sudeste",338,1.1,3338,56,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0484,PED-894629,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",397,27.2,4235,144,55,15,0,1,"No Prazo",0,0,0.53
+LOG-0485,PED-493476,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1325,25.1,1471,212,88,49,1,0,"No Prazo",0,0,0.5
+LOG-0486,PED-178202,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",1748,4.2,2488,180,123,50,0,0,"No Prazo",0,0,0.42
+LOG-0487,PED-611859,"Rota Ágil","São Paulo (CD-01)","Sul",955,9.7,142,140,82,19,0,0,"No Prazo",0,0,0.23
+LOG-0488,PED-712183,"Rota Ágil","São Paulo (CD-01)","Sul",762,20.8,1746,158,68,21,0,0,"No Prazo",0,0,0.25
+LOG-0489,PED-179174,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",317,21,2105,124,52,24,0,1,"No Prazo",0,0,0.5
+LOG-0490,PED-638668,"LogExpress","Extrema (CD-03)","Sul",646,33.1,3869,182,65,16,0,0,"No Prazo",0,0,0.28
+LOG-0491,PED-952881,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1177,3.9,466,138,98,35,0,0,"No Prazo",0,0,0.35
+LOG-0492,PED-233761,"Flash Courier","Campinas (CD-02)","Sudeste",379,2.8,4524,68,46,12,0,0,"No Prazo",0,0,0.05
+LOG-0493,PED-881307,"Flash Courier","Extrema (CD-03)","Sudeste",320,9.2,847,82,55,43,1,0,"No Prazo",0,0,0.32
+LOG-0494,PED-129459,"Flash Courier","Extrema (CD-03)","Sudeste",347,6.5,362,72,45,21,0,1,"No Prazo",0,0,0.24
+LOG-0495,PED-405158,"Rota Ágil","Campinas (CD-02)","Sul",804,4.1,5513,97,80,21,0,0,"No Prazo",0,0,0.19
+LOG-0496,PED-680482,"LogExpress","Campinas (CD-02)","Sul",817,7.5,2146,115,81,53,1,1,"No Prazo",0,0,0.63
+LOG-0497,PED-494749,"Flash Courier","São Paulo (CD-01)","Sudeste",379,0.8,884,52,50,12,0,0,"No Prazo",0,0,0.05
+LOG-0498,PED-197851,"TransBrasil Cargo","Extrema (CD-03)","Sul",747,11.8,4806,117,72,35,0,1,"No Prazo",0,0,0.51
+LOG-0499,PED-520077,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1956,2.5,3532,189,125,53,0,0,"No Prazo",0,0,0.44
+LOG-0500,PED-503734,"Flash Courier","Extrema (CD-03)","Sudeste",346,29.3,3218,144,49,12,0,0,"No Prazo",0,0,0.15
+LOG-0501,PED-154058,"Rota Ágil","Campinas (CD-02)","Sul",845,17.1,2633,150,69,49,1,0,"No Prazo",0,0,0.49
+LOG-0502,PED-120497,"LogExpress","Extrema (CD-03)","Sudeste",267,3.1,389,54,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0503,PED-718043,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1537,0.9,2530,151,131,53,0,1,"No Prazo",0,0,0.56
+LOG-0504,PED-162029,"LogExpress","Campinas (CD-02)","Sudeste",385,14.9,989,107,48,22,0,1,"No Prazo",0,0,0.36
+LOG-0505,PED-583560,"Flash Courier","Extrema (CD-03)","Sudeste",358,20.8,50,117,45,12,0,0,"No Prazo",0,0,0.12
+LOG-0506,PED-508885,"Rota Ágil","Extrema (CD-03)","Sudeste",355,1.4,347,60,49,12,0,0,"No Prazo",0,0,0.13
+LOG-0507,PED-700875,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",944,4,98,108,92,35,0,1,"No Prazo",0,0,0.39
+LOG-0508,PED-608287,"LogExpress","São Paulo (CD-01)","Nordeste",2276,3.3,1628,211,127,70,0,1,"No Prazo",0,0,0.54
+LOG-0509,PED-487689,"Rota Ágil","Campinas (CD-02)","Sudeste",300,8.7,1994,83,53,12,0,0,"No Prazo",0,0,0.15
+LOG-0510,PED-874124,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",892,12.3,1781,136,102,23,0,0,"No Prazo",0,0,0.35
+LOG-0511,PED-127226,"Flash Courier","Extrema (CD-03)","Sul",651,10.4,2039,103,83,16,0,0,"No Prazo",0,0,0.11
+LOG-0512,PED-646994,"LogExpress","Extrema (CD-03)","Sudeste",269,33.5,855,149,49,12,0,0,"No Prazo",0,0,0.24
+LOG-0513,PED-333429,"Flash Courier","Campinas (CD-02)","Sudeste",371,15.4,1845,107,54,12,0,0,"No Prazo",0,0,0.1
+LOG-0514,PED-686531,"Flash Courier","São Paulo (CD-01)","Sudeste",361,1.3,3875,52,52,20,0,1,"No Prazo",0,0,0.23
+LOG-0515,PED-187924,"Rota Ágil","São Paulo (CD-01)","Sul",646,25.8,131,165,67,14,0,0,"No Prazo",0,0,0.25
+LOG-0516,PED-521581,"LogExpress","Extrema (CD-03)","Sudeste",299,3.3,1282,64,53,12,0,0,"No Prazo",0,0,0.13
+LOG-0517,PED-521905,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",308,20.4,3469,111,46,28,0,1,"No Prazo",0,0,0.49
+LOG-0518,PED-617511,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",393,20.4,3823,115,43,16,0,1,"No Prazo",0,0,0.5
+LOG-0519,PED-493441,"LogExpress","Extrema (CD-03)","Sul",965,4.6,4898,121,70,22,0,0,"No Prazo",0,0,0.21
+LOG-0520,PED-888209,"Rota Ágil","Campinas (CD-02)","Sudeste",269,4.5,1908,55,47,53,1,1,"Atrasado",6,133,0.56
+LOG-0521,PED-575162,"Flash Courier","São Paulo (CD-01)","Sul",831,21.6,391,160,69,22,0,0,"No Prazo",0,0,0.18
+LOG-0522,PED-864375,"Flash Courier","São Paulo (CD-01)","Sul",879,6.4,2466,117,65,20,0,0,"No Prazo",0,0,0.13
+LOG-0523,PED-120254,"Flash Courier","São Paulo (CD-01)","Sudeste",339,15.5,427,109,44,36,1,1,"No Prazo",0,0,0.53
+LOG-0524,PED-961836,"Rota Ágil","Extrema (CD-03)","Sudeste",354,11.3,155,95,49,12,0,0,"No Prazo",0,0,0.16
+LOG-0525,PED-978827,"TransBrasil Cargo","São Paulo (CD-01)","Sul",851,24,3617,176,72,23,0,0,"No Prazo",0,0,0.39
+LOG-0526,PED-962484,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1285,10.2,3300,164,95,27,0,0,"No Prazo",0,0,0.19
+LOG-0527,PED-612808,"Rota Ágil","Extrema (CD-03)","Sudeste",375,3.4,2706,60,44,12,0,0,"No Prazo",0,0,0.14
+LOG-0528,PED-529799,"Rota Ágil","Campinas (CD-02)","Sul",729,21.7,396,156,68,21,0,0,"No Prazo",0,0,0.25
+LOG-0529,PED-413456,"Flash Courier","Extrema (CD-03)","Sul",616,17.4,108,124,71,46,1,1,"No Prazo",0,0,0.57
+LOG-0530,PED-470779,"LogExpress","Campinas (CD-02)","Sul",943,0.5,411,110,66,21,0,0,"No Prazo",0,0,0.19
+LOG-0531,PED-282214,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",298,1.8,1925,52,54,12,0,0,"No Prazo",0,0,0.24
+LOG-0532,PED-760316,"LogExpress","Extrema (CD-03)","Sul",626,1.5,5391,80,70,18,0,0,"No Prazo",0,0,0.16
+LOG-0533,PED-705084,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1270,16.2,140,177,106,32,0,0,"No Prazo",0,0,0.41
+LOG-0534,PED-716520,"Flash Courier","Extrema (CD-03)","Sul",640,5,2574,93,69,57,1,1,"No Prazo",0,0,0.52
+LOG-0535,PED-606250,"LogExpress","Extrema (CD-03)","Nordeste",1756,15.7,137,219,120,44,0,0,"No Prazo",0,0,0.34
+LOG-0536,PED-312129,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",2112,6.6,329,218,137,59,0,0,"No Prazo",0,0,0.47
+LOG-0537,PED-484675,"Flash Courier","Campinas (CD-02)","Sudeste",310,8,220,79,49,12,0,0,"No Prazo",0,0,0.07
+LOG-0538,PED-823888,"LogExpress","São Paulo (CD-01)","Sudeste",285,8.3,2342,74,51,13,0,1,"No Prazo",0,0,0.32
+LOG-0539,PED-867179,"Flash Courier","Extrema (CD-03)","Nordeste",1538,4.4,2477,157,132,47,0,1,"No Prazo",0,0,0.38
+LOG-0540,PED-729683,"Flash Courier","Extrema (CD-03)","Sudeste",369,30.9,1867,157,53,12,0,0,"No Prazo",0,0,0.16
+LOG-0541,PED-196674,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2274,31.1,2238,311,122,66,0,0,"No Prazo",0,0,0.58
+LOG-0542,PED-530331,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",247,5.5,5364,66,45,12,0,0,"No Prazo",0,0,0.25
+LOG-0543,PED-530655,"Rota Ágil","Extrema (CD-03)","Sudeste",257,25.2,539,121,50,12,0,0,"No Prazo",0,0,0.2
+LOG-0544,PED-797646,"LogExpress","São Paulo (CD-01)","Sudeste",350,0.6,375,59,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0545,PED-131304,"Flash Courier","São Paulo (CD-01)","Sudeste",312,18.1,1339,104,47,12,0,0,"No Prazo",0,0,0.1
+LOG-0546,PED-931628,"Flash Courier","Extrema (CD-03)","Sudeste",251,6.9,2654,64,54,12,0,0,"No Prazo",0,0,0.06
+LOG-0547,PED-198618,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1662,26,1547,240,137,42,0,0,"No Prazo",0,0,0.49
+LOG-0548,PED-332276,"Flash Courier","Campinas (CD-02)","Sudeste",324,18.6,2387,110,44,20,1,0,"No Prazo",0,0,0.36
+LOG-0549,PED-205659,"LogExpress","Extrema (CD-03)","Sul",829,21,50,166,72,18,0,0,"No Prazo",0,0,0.26
+LOG-0550,PED-486539,"Rota Ágil","São Paulo (CD-01)","Sudeste",287,9.3,3048,74,54,13,0,1,"No Prazo",0,0,0.33
+LOG-0551,PED-420802,"Flash Courier","São Paulo (CD-01)","Sudeste",318,5.1,1903,66,54,12,0,0,"No Prazo",0,0,0.06
+LOG-0552,PED-315570,"LogExpress","Extrema (CD-03)","Sul",768,8.3,2498,115,65,34,1,0,"No Prazo",0,0,0.45
+LOG-0553,PED-524602,"LogExpress","Campinas (CD-02)","Sudeste",357,1.7,52,52,53,12,0,0,"No Prazo",0,0,0.13
+LOG-0554,PED-599926,"Flash Courier","Extrema (CD-03)","Norte",3385,20.2,1005,362,166,96,0,1,"No Prazo",0,0,0.65
+LOG-0555,PED-964282,"LogExpress","Extrema (CD-03)","Sul",600,8.5,408,97,67,27,0,1,"No Prazo",0,0,0.36
+LOG-0556,PED-283962,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1248,24.7,388,211,98,77,1,1,"No Prazo",0,0,0.87
+LOG-0557,PED-180636,"Flash Courier","São Paulo (CD-01)","Nordeste",2412,6.3,1983,238,124,57,0,0,"No Prazo",0,0,0.31
+LOG-0558,PED-378182,"LogExpress","Extrema (CD-03)","Sudeste",257,1.1,1847,55,52,12,0,0,"No Prazo",0,0,0.11
+LOG-0559,PED-742395,"LogExpress","São Paulo (CD-01)","Sudeste",290,24.8,76,135,51,12,0,0,"No Prazo",0,0,0.21
+LOG-0560,PED-973275,"LogExpress","Campinas (CD-02)","Nordeste",1718,1.6,3155,168,131,59,0,1,"No Prazo",0,0,0.47
+LOG-0561,PED-803371,"LogExpress","Extrema (CD-03)","Sul",890,4.1,165,116,79,24,0,0,"No Prazo",0,0,0.2
+LOG-0562,PED-948140,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",300,5.4,1474,69,54,12,0,0,"No Prazo",0,0,0.26
+LOG-0563,PED-259575,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",336,13.4,484,98,53,23,0,1,"No Prazo",0,0,0.47
+LOG-0564,PED-128329,"Rota Ágil","Extrema (CD-03)","Sudeste",347,1.3,2732,55,50,12,0,0,"No Prazo",0,0,0.13
+LOG-0565,PED-120320,"LogExpress","Campinas (CD-02)","Sul",692,19.5,677,150,78,22,0,0,"No Prazo",0,0,0.23
+LOG-0566,PED-978977,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",863,19.2,460,156,87,39,1,0,"No Prazo",0,0,0.5
+LOG-0567,PED-900277,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1252,1.9,1470,125,90,27,0,0,"No Prazo",0,0,0.15
+LOG-0568,PED-706157,"Flash Courier","Campinas (CD-02)","Nordeste",2033,18.8,2889,247,123,43,0,0,"No Prazo",0,0,0.31
+LOG-0569,PED-978703,"LogExpress","Campinas (CD-02)","Sudeste",368,11.3,3401,97,53,40,1,0,"No Prazo",0,0,0.42
+LOG-0570,PED-233105,"Rota Ágil","Campinas (CD-02)","Sudeste",290,6,166,72,51,12,0,0,"No Prazo",0,0,0.14
+LOG-0571,PED-319540,"LogExpress","São Paulo (CD-01)","Sudeste",357,1.3,3380,66,45,20,0,1,"No Prazo",0,0,0.31
+LOG-0572,PED-940378,"LogExpress","Campinas (CD-02)","Sudeste",359,9.9,265,81,46,12,0,0,"No Prazo",0,0,0.16
+LOG-0573,PED-207368,"Rota Ágil","São Paulo (CD-01)","Sudeste",381,31.3,55,154,47,12,0,0,"No Prazo",0,0,0.24
+LOG-0574,PED-341026,"LogExpress","São Paulo (CD-01)","Sudeste",272,23.2,193,120,48,18,0,1,"No Prazo",0,0,0.38
+LOG-0575,PED-589409,"Rota Ágil","São Paulo (CD-01)","Sudeste",355,3.4,4773,62,45,19,0,1,"No Prazo",0,0,0.31
+LOG-0576,PED-751450,"Flash Courier","São Paulo (CD-01)","Sudeste",396,17.2,1884,115,44,21,0,1,"No Prazo",0,0,0.29
+LOG-0577,PED-807704,"Rota Ágil","Campinas (CD-02)","Norte",2500,30.7,277,317,193,54,0,0,"No Prazo",0,0,0.49
+LOG-0578,PED-349695,"Flash Courier","Campinas (CD-02)","Norte",2655,0.4,695,235,180,55,0,0,"No Prazo",0,0,0.31
+LOG-0579,PED-758352,"Rota Ágil","Campinas (CD-02)","Sul",841,10.6,3379,122,73,22,0,0,"No Prazo",0,0,0.22
+LOG-0580,PED-833676,"TransBrasil Cargo","Extrema (CD-03)","Sul",898,0.7,221,103,82,28,0,0,"No Prazo",0,0,0.31
+LOG-0581,PED-275667,"Flash Courier","São Paulo (CD-01)","Sudeste",315,6.6,280,71,53,22,1,0,"No Prazo",0,0,0.31
+LOG-0582,PED-495578,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",256,11.5,5481,88,54,12,0,0,"No Prazo",0,0,0.27
+LOG-0583,PED-484791,"Rota Ágil","Campinas (CD-02)","Sudeste",382,24.7,80,136,48,49,1,1,"Atrasado",1,143,0.65
+LOG-0584,PED-481929,"LogExpress","Campinas (CD-02)","Centro-Oeste",1012,18.8,134,174,103,59,1,0,"No Prazo",0,0,0.52
+LOG-0585,PED-676145,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",385,25.3,1399,142,54,12,0,0,"No Prazo",0,0,0.34
+LOG-0586,PED-907025,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",377,1.7,224,59,44,12,0,0,"No Prazo",0,0,0.25
+LOG-0587,PED-704571,"LogExpress","Extrema (CD-03)","Nordeste",1667,23.4,2839,241,113,41,0,0,"No Prazo",0,0,0.36
+LOG-0588,PED-668784,"TransBrasil Cargo","São Paulo (CD-01)","Sul",834,6.7,3268,111,81,19,0,0,"No Prazo",0,0,0.32
+LOG-0589,PED-499664,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1270,14.6,50,168,109,29,0,0,"No Prazo",0,0,0.2
+LOG-0590,PED-797210,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",302,1.2,97,61,55,12,0,0,"No Prazo",0,0,0.24
+LOG-0591,PED-361423,"Rota Ágil","Extrema (CD-03)","Sudeste",246,14.7,2754,93,50,12,0,0,"No Prazo",0,0,0.16
+LOG-0592,PED-692303,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",309,19.7,1396,114,50,22,0,1,"No Prazo",0,0,0.49
+LOG-0593,PED-580733,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",260,1.4,2159,50,45,32,1,0,"No Prazo",0,0,0.49
+LOG-0594,PED-280042,"Rota Ágil","São Paulo (CD-01)","Sul",704,8,5113,106,74,45,1,0,"No Prazo",0,0,0.44
+LOG-0595,PED-237453,"Flash Courier","Campinas (CD-02)","Sul",836,23,1198,159,71,32,0,1,"No Prazo",0,0,0.36
+LOG-0596,PED-766855,"Rota Ágil","Extrema (CD-03)","Nordeste",2020,0.5,362,185,126,85,1,0,"No Prazo",0,0,0.57
+LOG-0597,PED-148804,"Flash Courier","Extrema (CD-03)","Norte",3282,27.7,1444,370,192,105,1,0,"No Prazo",0,0,0.74
+LOG-0598,PED-530520,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",333,19.2,88,115,48,12,0,0,"No Prazo",0,0,0.31
+LOG-0599,PED-311400,"Rota Ágil","Campinas (CD-02)","Sul",595,12,439,114,65,23,0,1,"No Prazo",0,0,0.37
+LOG-0600,PED-253996,"Flash Courier","Extrema (CD-03)","Nordeste",2117,4.4,3430,211,114,67,0,1,"No Prazo",0,0,0.44
+LOG-0601,PED-357472,"LogExpress","Extrema (CD-03)","Centro-Oeste",1294,16.5,4571,186,105,62,1,0,"No Prazo",0,0,0.54
+LOG-0602,PED-769050,"TransBrasil Cargo","Campinas (CD-02)","Sul",944,8.8,372,126,68,55,1,1,"No Prazo",0,0,0.77
+LOG-0603,PED-555077,"LogExpress","São Paulo (CD-01)","Norte",2439,13.7,3880,259,190,63,0,0,"No Prazo",0,0,0.42
+LOG-0604,PED-538734,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",299,3.8,3551,69,54,12,0,0,"No Prazo",0,0,0.25
+LOG-0605,PED-189058,"Flash Courier","Extrema (CD-03)","Sul",730,0.5,2934,84,75,58,1,1,"No Prazo",0,0,0.52
+LOG-0606,PED-474158,"Rota Ágil","Extrema (CD-03)","Sul",694,32.5,2638,184,70,15,0,0,"No Prazo",0,0,0.28
+LOG-0607,PED-752260,"Rota Ágil","Campinas (CD-02)","Sudeste",261,6.4,4169,71,45,12,0,0,"No Prazo",0,0,0.13
+LOG-0608,PED-497029,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",392,4.9,3443,77,44,26,0,1,"No Prazo",0,0,0.44
+LOG-0609,PED-618560,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",311,1.1,59,61,49,24,0,1,"No Prazo",0,0,0.42
+LOG-0610,PED-564861,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",322,3.7,552,68,47,12,0,0,"No Prazo",0,0,0.25
+LOG-0611,PED-670740,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2103,1.3,3984,199,108,61,0,0,"No Prazo",0,0,0.45
+LOG-0612,PED-343287,"TransBrasil Cargo","São Paulo (CD-01)","Sul",666,4.2,370,91,77,20,0,0,"No Prazo",0,0,0.29
+LOG-0613,PED-182500,"Rota Ágil","Extrema (CD-03)","Sudeste",373,7.5,182,86,54,12,0,0,"No Prazo",0,0,0.15
+LOG-0614,PED-788379,"LogExpress","Campinas (CD-02)","Sudeste",271,1.7,406,59,49,12,0,0,"No Prazo",0,0,0.12
+LOG-0615,PED-960925,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",395,2.5,282,72,44,12,0,0,"No Prazo",0,0,0.26
+LOG-0616,PED-400138,"Rota Ágil","São Paulo (CD-01)","Sul",902,2.7,2554,110,69,34,0,1,"No Prazo",0,0,0.38
+LOG-0617,PED-668429,"Flash Courier","São Paulo (CD-01)","Sudeste",377,5.1,4946,75,50,12,0,0,"No Prazo",0,0,0.06
+LOG-0618,PED-121531,"Flash Courier","Extrema (CD-03)","Sudeste",367,25.7,284,131,49,20,0,1,"No Prazo",0,0,0.32
+LOG-0619,PED-222924,"Flash Courier","Campinas (CD-02)","Sul",921,2.5,191,108,73,35,0,1,"No Prazo",0,0,0.3
+LOG-0620,PED-757418,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",339,10.9,1240,82,53,12,0,0,"No Prazo",0,0,0.28
+LOG-0621,PED-171631,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",257,25.3,4574,128,47,12,0,0,"No Prazo",0,0,0.32
+LOG-0622,PED-352511,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1007,22.4,1617,176,87,20,0,0,"No Prazo",0,0,0.28
+LOG-0623,PED-100057,"Rota Ágil","São Paulo (CD-01)","Sudeste",394,0.4,51,55,53,59,1,1,"Atrasado",6,86,0.56
+LOG-0624,PED-965250,"LogExpress","Extrema (CD-03)","Sudeste",242,32.5,154,142,49,38,1,0,"No Prazo",0,0,0.48
+LOG-0625,PED-310162,"LogExpress","São Paulo (CD-01)","Sudeste",241,23.6,5060,125,47,24,0,1,"No Prazo",0,0,0.38
+LOG-0626,PED-977064,"LogExpress","São Paulo (CD-01)","Sudeste",307,6.2,4390,63,48,12,0,0,"No Prazo",0,0,0.14
+LOG-0627,PED-913499,"TransBrasil Cargo","Extrema (CD-03)","Norte",3087,33.4,742,374,181,97,0,1,"No Prazo",0,0,0.87
+LOG-0628,PED-996836,"Flash Courier","São Paulo (CD-01)","Sudeste",307,29.1,223,144,54,12,0,0,"No Prazo",0,0,0.14
+LOG-0629,PED-113827,"LogExpress","Campinas (CD-02)","Centro-Oeste",1038,1.9,3970,115,105,46,0,1,"No Prazo",0,0,0.39
+LOG-0630,PED-294155,"Flash Courier","Extrema (CD-03)","Sul",922,24.2,1033,180,69,21,0,0,"No Prazo",0,0,0.2
+LOG-0631,PED-558368,"LogExpress","São Paulo (CD-01)","Sul",830,20.5,3648,156,71,21,0,0,"No Prazo",0,0,0.25
+LOG-0632,PED-689247,"Rota Ágil","Extrema (CD-03)","Sudeste",261,4.2,845,60,52,12,0,0,"No Prazo",0,0,0.13
+LOG-0633,PED-386793,"LogExpress","Extrema (CD-03)","Centro-Oeste",848,1.4,3600,101,88,25,0,0,"No Prazo",0,0,0.18
+LOG-0634,PED-251006,"Rota Ágil","São Paulo (CD-01)","Sudeste",244,32.7,3104,152,44,23,0,1,"No Prazo",0,0,0.41
+LOG-0635,PED-617214,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1046,27.8,5077,195,101,26,0,0,"No Prazo",0,0,0.43
+LOG-0636,PED-195316,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1602,26.6,753,239,137,44,0,0,"No Prazo",0,0,0.49
+LOG-0637,PED-140084,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",376,5.6,1425,72,49,13,0,0,"No Prazo",0,0,0.26
+LOG-0638,PED-151520,"Flash Courier","Campinas (CD-02)","Sudeste",269,0.5,64,49,54,21,0,1,"No Prazo",0,0,0.21
+LOG-0639,PED-503607,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1136,17.6,2525,178,88,35,0,0,"No Prazo",0,0,0.4
+LOG-0640,PED-595597,"Rota Ágil","Extrema (CD-03)","Sudeste",339,0.5,1026,61,44,28,1,0,"No Prazo",0,0,0.37
+LOG-0641,PED-219675,"Rota Ágil","Campinas (CD-02)","Nordeste",2252,9.3,4325,229,125,62,0,1,"No Prazo",0,0,0.56
+LOG-0642,PED-615744,"LogExpress","Extrema (CD-03)","Sul",771,5.7,4004,109,67,22,0,0,"No Prazo",0,0,0.19
+LOG-0643,PED-302179,"Flash Courier","Campinas (CD-02)","Sudeste",259,0.4,57,43,49,46,1,1,"No Prazo",0,0,0.46
+LOG-0644,PED-412743,"LogExpress","São Paulo (CD-01)","Sul",702,14.9,917,125,80,15,0,0,"No Prazo",0,0,0.22
+LOG-0645,PED-993622,"TransBrasil Cargo","Extrema (CD-03)","Sul",703,17.4,1257,142,78,20,0,0,"No Prazo",0,0,0.35
+LOG-0646,PED-241168,"LogExpress","Campinas (CD-02)","Centro-Oeste",1217,0.4,893,124,100,31,0,0,"No Prazo",0,0,0.22
+LOG-0647,PED-555381,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",934,5.3,3869,124,87,28,0,0,"No Prazo",0,0,0.33
+LOG-0648,PED-736261,"Flash Courier","São Paulo (CD-01)","Sudeste",308,4,1215,67,53,13,0,1,"No Prazo",0,0,0.23
+LOG-0649,PED-687191,"Flash Courier","São Paulo (CD-01)","Sudeste",324,31.6,2404,153,46,12,0,0,"No Prazo",0,0,0.16
+LOG-0650,PED-181959,"LogExpress","Extrema (CD-03)","Centro-Oeste",1225,31.5,533,230,92,63,1,1,"No Prazo",0,0,0.77
+LOG-0651,PED-918912,"LogExpress","Campinas (CD-02)","Sudeste",295,12.5,144,88,47,12,0,0,"No Prazo",0,0,0.16
+LOG-0652,PED-308125,"LogExpress","Extrema (CD-03)","Sudeste",315,1.9,1682,56,44,12,0,0,"No Prazo",0,0,0.12
+LOG-0653,PED-464004,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1009,7.9,164,138,90,54,1,1,"No Prazo",0,0,0.66
+LOG-0654,PED-555586,"TransBrasil Cargo","Campinas (CD-02)","Norte",2985,10,242,303,182,84,0,0,"No Prazo",0,0,0.59
+LOG-0655,PED-572577,"LogExpress","Extrema (CD-03)","Sul",805,22.2,4061,168,76,54,1,0,"No Prazo",0,0,0.51
+LOG-0656,PED-227905,"LogExpress","Campinas (CD-02)","Centro-Oeste",1077,24.7,4015,192,99,24,0,0,"No Prazo",0,0,0.3
+LOG-0657,PED-492118,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",946,20.9,354,165,101,28,0,1,"No Prazo",0,0,0.37
+LOG-0658,PED-191658,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",990,24.2,811,189,102,25,0,0,"No Prazo",0,0,0.41
+LOG-0659,PED-469760,"TransBrasil Cargo","Extrema (CD-03)","Sul",644,2.9,1723,84,73,15,0,0,"No Prazo",0,0,0.29
+LOG-0660,PED-214529,"Rota Ágil","Campinas (CD-02)","Sul",962,1.9,1273,105,73,68,1,1,"No Prazo",0,0,0.63
+LOG-0661,PED-643148,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",368,12.7,534,98,55,28,1,0,"No Prazo",0,0,0.54
+LOG-0662,PED-530883,"LogExpress","São Paulo (CD-01)","Sudeste",366,16.7,55,106,48,29,0,1,"No Prazo",0,0,0.37
+LOG-0663,PED-871165,"Rota Ágil","Campinas (CD-02)","Sul",662,22.6,54,153,72,17,0,0,"No Prazo",0,0,0.24
+LOG-0664,PED-271489,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1152,14.1,2570,162,90,36,0,0,"No Prazo",0,0,0.39
+LOG-0665,PED-838479,"Rota Ágil","Campinas (CD-02)","Nordeste",1958,1.6,5066,186,117,55,0,1,"No Prazo",0,0,0.49
+LOG-0666,PED-139641,"Rota Ágil","Extrema (CD-03)","Sul",632,11.5,324,114,72,16,0,0,"No Prazo",0,0,0.2
+LOG-0667,PED-353854,"Flash Courier","Extrema (CD-03)","Sul",647,0.7,1737,80,66,21,0,1,"No Prazo",0,0,0.26
+LOG-0668,PED-549228,"Flash Courier","São Paulo (CD-01)","Nordeste",1690,0.7,4587,156,135,41,0,0,"No Prazo",0,0,0.2
+LOG-0669,PED-177330,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",352,8.3,784,73,51,12,0,0,"No Prazo",0,0,0.27
+LOG-0670,PED-172098,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",260,5,1795,64,50,36,1,1,"No Prazo",0,0,0.68
+LOG-0671,PED-292384,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",267,9.7,840,84,50,12,0,0,"No Prazo",0,0,0.27
+LOG-0672,PED-481597,"Rota Ágil","Campinas (CD-02)","Sudeste",376,5,2607,72,50,22,0,1,"No Prazo",0,0,0.32
+LOG-0673,PED-362388,"Rota Ágil","Extrema (CD-03)","Sudeste",367,1.8,1538,65,45,12,0,0,"No Prazo",0,0,0.13
+LOG-0674,PED-565489,"Rota Ágil","Campinas (CD-02)","Sudeste",330,10.8,2138,80,53,12,0,0,"No Prazo",0,0,0.16
+LOG-0675,PED-235258,"LogExpress","Extrema (CD-03)","Norte",2559,6.2,1178,257,183,64,0,0,"No Prazo",0,0,0.4
+LOG-0676,PED-871693,"LogExpress","Extrema (CD-03)","Sul",841,7.5,2723,112,74,33,0,1,"No Prazo",0,0,0.39
+LOG-0677,PED-163364,"LogExpress","Extrema (CD-03)","Sudeste",289,0.4,567,54,52,12,0,0,"No Prazo",0,0,0.12
+LOG-0678,PED-280354,"LogExpress","Extrema (CD-03)","Nordeste",2166,0.7,90,197,119,81,1,1,"No Prazo",0,0,0.77
+LOG-0679,PED-709899,"LogExpress","São Paulo (CD-01)","Sul",647,12.8,101,120,79,31,0,1,"No Prazo",0,0,0.38
+LOG-0680,PED-759209,"Rota Ágil","São Paulo (CD-01)","Sudeste",303,13.2,3795,94,53,26,1,0,"No Prazo",0,0,0.41
+LOG-0681,PED-766620,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",313,4.8,837,73,43,35,1,0,"No Prazo",0,0,0.5
+LOG-0682,PED-146022,"Rota Ágil","São Paulo (CD-01)","Sudeste",363,15.4,4324,106,48,12,0,0,"No Prazo",0,0,0.18
+LOG-0683,PED-832457,"Rota Ágil","Campinas (CD-02)","Sudeste",377,0.6,231,58,49,19,0,1,"No Prazo",0,0,0.31
+LOG-0684,PED-378294,"LogExpress","São Paulo (CD-01)","Sudeste",295,12.5,959,84,52,14,0,1,"No Prazo",0,0,0.34
+LOG-0685,PED-690567,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",347,29.8,52,148,50,28,0,1,"No Prazo",0,0,0.53
+LOG-0686,PED-383163,"Flash Courier","São Paulo (CD-01)","Sudeste",353,19.9,424,123,53,12,0,0,"No Prazo",0,0,0.12
+LOG-0687,PED-677932,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1080,31.8,3500,218,87,57,1,1,"No Prazo",0,0,0.76
+LOG-0688,PED-398217,"LogExpress","Extrema (CD-03)","Sudeste",357,34.5,197,161,54,29,0,1,"No Prazo",0,0,0.43
+LOG-0689,PED-881786,"Flash Courier","Campinas (CD-02)","Centro-Oeste",914,23.8,333,170,108,31,0,1,"No Prazo",0,0,0.38
+LOG-0690,PED-267901,"TransBrasil Cargo","Campinas (CD-02)","Norte",3022,13.6,3841,310,166,92,0,1,"No Prazo",0,0,0.78
+LOG-0691,PED-403784,"Flash Courier","São Paulo (CD-01)","Sudeste",242,7.8,1267,73,54,12,0,1,"No Prazo",0,0,0.24
+LOG-0692,PED-903325,"LogExpress","Campinas (CD-02)","Sudeste",343,19.2,1404,122,46,12,0,0,"No Prazo",0,0,0.19
+LOG-0693,PED-881427,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",916,23.7,694,182,103,55,1,0,"No Prazo",0,0,0.53
+LOG-0694,PED-839070,"LogExpress","Campinas (CD-02)","Sul",744,31.1,2276,182,69,21,0,0,"No Prazo",0,0,0.28
+LOG-0695,PED-797727,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",935,30.7,1848,204,98,38,0,1,"No Prazo",0,0,0.48
+LOG-0696,PED-794027,"Flash Courier","São Paulo (CD-01)","Nordeste",2429,9.4,4408,250,129,52,0,0,"No Prazo",0,0,0.32
+LOG-0697,PED-599907,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",368,35.3,105,174,44,20,0,1,"No Prazo",0,0,0.56
+LOG-0698,PED-182087,"Flash Courier","Campinas (CD-02)","Sudeste",372,1.7,864,59,51,12,0,0,"No Prazo",0,0,0.05
+LOG-0699,PED-201855,"Rota Ágil","Campinas (CD-02)","Sudeste",338,20.9,2098,116,47,12,0,0,"No Prazo",0,0,0.2
+LOG-0700,PED-288290,"LogExpress","São Paulo (CD-01)","Sudeste",244,10.8,376,80,53,15,0,1,"No Prazo",0,0,0.33
+LOG-0701,PED-984128,"LogExpress","Extrema (CD-03)","Centro-Oeste",895,32.3,3114,205,110,21,0,0,"No Prazo",0,0,0.31
+LOG-0702,PED-251118,"Rota Ágil","São Paulo (CD-01)","Sudeste",282,7.1,1901,78,44,33,1,0,"No Prazo",0,0,0.39
+LOG-0703,PED-293946,"Flash Courier","Extrema (CD-03)","Sul",684,19.3,50,137,77,12,0,0,"No Prazo",0,0,0.15
+LOG-0704,PED-708159,"LogExpress","São Paulo (CD-01)","Centro-Oeste",926,24,1766,169,109,35,0,1,"No Prazo",0,0,0.46
+LOG-0705,PED-945200,"Rota Ágil","Campinas (CD-02)","Nordeste",1975,4.3,521,197,136,61,0,1,"No Prazo",0,0,0.51
+LOG-0706,PED-176454,"TransBrasil Cargo","Extrema (CD-03)","Sul",931,16,50,157,82,24,0,0,"No Prazo",0,0,0.37
+LOG-0707,PED-618445,"LogExpress","São Paulo (CD-01)","Sul",973,20,159,161,76,23,0,0,"No Prazo",0,0,0.27
+LOG-0708,PED-127102,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",286,2.7,1879,51,48,23,0,1,"No Prazo",0,0,0.42
+LOG-0709,PED-760902,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",366,33.8,2052,169,47,18,0,1,"No Prazo",0,0,0.55
+LOG-0710,PED-683360,"Rota Ágil","São Paulo (CD-01)","Sudeste",241,4.7,3759,55,44,12,0,0,"No Prazo",0,0,0.13
+LOG-0711,PED-786462,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1005,28,3624,203,87,30,0,0,"No Prazo",0,0,0.42
+LOG-0712,PED-356230,"LogExpress","Campinas (CD-02)","Sul",825,32.7,1605,195,68,38,0,1,"No Prazo",0,0,0.48
+LOG-0713,PED-975679,"Rota Ágil","São Paulo (CD-01)","Sul",672,17.2,213,129,81,23,0,1,"No Prazo",0,0,0.4
+LOG-0714,PED-344895,"LogExpress","Extrema (CD-03)","Sudeste",380,28,2214,138,45,12,0,0,"No Prazo",0,0,0.23
+LOG-0715,PED-575775,"LogExpress","Extrema (CD-03)","Norte",3306,2.5,577,299,165,85,0,0,"No Prazo",0,0,0.48
+LOG-0716,PED-373321,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",921,26,3968,178,97,25,0,0,"No Prazo",0,0,0.28
+LOG-0717,PED-337534,"LogExpress","Extrema (CD-03)","Sudeste",337,8.2,4474,80,46,12,0,0,"No Prazo",0,0,0.15
+LOG-0718,PED-168414,"LogExpress","Extrema (CD-03)","Sul",887,16.8,150,148,69,19,0,0,"No Prazo",0,0,0.25
+LOG-0719,PED-465960,"LogExpress","Campinas (CD-02)","Sudeste",296,1.9,328,51,46,20,0,1,"No Prazo",0,0,0.3
+LOG-0720,PED-634945,"Flash Courier","São Paulo (CD-01)","Sudeste",345,25.6,3328,141,44,12,0,0,"No Prazo",0,0,0.14
+LOG-0721,PED-146381,"Flash Courier","São Paulo (CD-01)","Sudeste",363,15.5,3279,109,50,14,0,1,"No Prazo",0,0,0.28
+LOG-0722,PED-206801,"Rota Ágil","São Paulo (CD-01)","Sudeste",284,25.7,2981,131,50,27,0,1,"No Prazo",0,0,0.39
+LOG-0723,PED-758657,"LogExpress","Campinas (CD-02)","Sudeste",343,3.5,3369,72,50,12,0,0,"No Prazo",0,0,0.13
+LOG-0724,PED-131203,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1298,0.8,3920,132,107,27,0,0,"No Prazo",0,0,0.15
+LOG-0725,PED-570416,"Flash Courier","Extrema (CD-03)","Norte",2352,27.6,1018,305,185,49,0,0,"No Prazo",0,0,0.38
+LOG-0726,PED-876296,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",925,4.1,239,110,88,24,0,0,"No Prazo",0,0,0.2
+LOG-0727,PED-748842,"Flash Courier","Extrema (CD-03)","Sul",827,0.4,3596,86,69,16,0,0,"No Prazo",0,0,0.1
+LOG-0728,PED-788055,"Rota Ágil","São Paulo (CD-01)","Sudeste",261,17.7,4900,103,44,12,0,0,"No Prazo",0,0,0.18
+LOG-0729,PED-693935,"LogExpress","São Paulo (CD-01)","Sul",736,34.3,423,192,69,18,0,0,"No Prazo",0,0,0.29
+LOG-0730,PED-166481,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",248,13.7,1084,86,47,12,0,0,"No Prazo",0,0,0.28
+LOG-0731,PED-705694,"Flash Courier","São Paulo (CD-01)","Sudeste",365,1.5,136,66,44,12,0,0,"No Prazo",0,0,0.05
+LOG-0732,PED-211574,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",281,5.5,50,58,44,12,0,0,"No Prazo",0,0,0.25
+LOG-0733,PED-184120,"Flash Courier","Extrema (CD-03)","Sudeste",263,25.7,2989,124,44,21,0,1,"No Prazo",0,0,0.31
+LOG-0734,PED-313522,"Rota Ágil","São Paulo (CD-01)","Sudeste",286,34,75,159,46,12,0,0,"No Prazo",0,0,0.24
+LOG-0735,PED-999957,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1030,7.5,792,133,95,55,1,0,"No Prazo",0,0,0.48
+LOG-0736,PED-395794,"LogExpress","Extrema (CD-03)","Centro-Oeste",1207,20.8,1048,181,97,30,0,0,"No Prazo",0,0,0.3
+LOG-0737,PED-262785,"Flash Courier","São Paulo (CD-01)","Sudeste",320,26.8,4770,142,45,48,1,1,"Atrasado",3,276,0.57
+LOG-0738,PED-100663,"LogExpress","Campinas (CD-02)","Sudeste",356,13.3,4981,95,45,35,1,0,"No Prazo",0,0,0.42
+LOG-0739,PED-404139,"TransBrasil Cargo","Extrema (CD-03)","Sul",895,9.7,518,127,69,27,0,0,"No Prazo",0,0,0.34
+LOG-0740,PED-612797,"Flash Courier","São Paulo (CD-01)","Nordeste",1656,7.6,1453,183,122,53,0,1,"No Prazo",0,0,0.4
+LOG-0741,PED-304930,"LogExpress","Campinas (CD-02)","Sudeste",309,17.9,178,106,46,12,0,0,"No Prazo",0,0,0.18
+LOG-0742,PED-660810,"Rota Ágil","São Paulo (CD-01)","Sudeste",269,10,5264,83,53,21,0,1,"No Prazo",0,0,0.33
+LOG-0743,PED-488823,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",334,16.4,265,104,47,12,0,0,"No Prazo",0,0,0.3
+LOG-0744,PED-458591,"LogExpress","São Paulo (CD-01)","Sul",840,25.9,794,178,75,22,0,0,"No Prazo",0,0,0.28
+LOG-0745,PED-495027,"Flash Courier","São Paulo (CD-01)","Sul",721,2.6,4964,87,77,29,1,0,"No Prazo",0,0,0.34
+LOG-0746,PED-786697,"Rota Ágil","Extrema (CD-03)","Sudeste",311,14.2,2489,92,51,12,0,0,"No Prazo",0,0,0.17
+LOG-0747,PED-303688,"LogExpress","Campinas (CD-02)","Sudeste",271,34.7,3374,152,51,47,1,1,"No Prazo",0,0,0.67
+LOG-0748,PED-633233,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",927,18.7,2575,167,92,19,0,0,"No Prazo",0,0,0.26
+LOG-0749,PED-278001,"Rota Ágil","Extrema (CD-03)","Sul",802,27.2,1352,177,73,52,1,1,"No Prazo",0,0,0.71
+LOG-0750,PED-289953,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",352,5.5,1510,72,48,12,0,0,"No Prazo",0,0,0.26
+LOG-0751,PED-729166,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",399,1.3,101,66,47,24,0,1,"No Prazo",0,0,0.43
+LOG-0752,PED-455790,"LogExpress","São Paulo (CD-01)","Sudeste",327,27.2,1064,140,51,40,1,0,"No Prazo",0,0,0.47
+LOG-0753,PED-101628,"LogExpress","Campinas (CD-02)","Sudeste",317,1.4,3276,57,51,12,0,0,"No Prazo",0,0,0.12
+LOG-0754,PED-268618,"Rota Ágil","Extrema (CD-03)","Nordeste",2063,13.7,2027,239,130,50,0,0,"No Prazo",0,0,0.37
+LOG-0755,PED-402276,"LogExpress","São Paulo (CD-01)","Sudeste",390,8.4,2977,89,53,23,0,1,"No Prazo",0,0,0.34
+LOG-0756,PED-575659,"Rota Ágil","Extrema (CD-03)","Sudeste",299,25,981,133,49,12,0,0,"No Prazo",0,0,0.21
+LOG-0757,PED-856539,"Flash Courier","Campinas (CD-02)","Centro-Oeste",847,12.1,173,139,87,17,0,0,"No Prazo",0,0,0.14
+LOG-0758,PED-704085,"LogExpress","Campinas (CD-02)","Sul",631,12.9,3056,115,74,34,0,1,"No Prazo",0,0,0.38
+LOG-0759,PED-985570,"LogExpress","Campinas (CD-02)","Sudeste",327,26.4,982,139,48,12,0,0,"No Prazo",0,0,0.22
+LOG-0760,PED-947006,"Flash Courier","Campinas (CD-02)","Sudeste",265,1.4,4563,45,48,12,0,0,"No Prazo",0,0,0.04
+LOG-0761,PED-675108,"Flash Courier","São Paulo (CD-01)","Sudeste",250,4.1,1286,59,55,33,1,0,"No Prazo",0,0,0.29
+LOG-0762,PED-111917,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2389,22.9,1553,292,108,69,0,0,"No Prazo",0,0,0.56
+LOG-0763,PED-420574,"LogExpress","Extrema (CD-03)","Sudeste",368,10.4,3997,84,55,41,1,0,"No Prazo",0,0,0.41
+LOG-0764,PED-246041,"TransBrasil Cargo","São Paulo (CD-01)","Sul",698,1.3,575,89,73,49,1,1,"No Prazo",0,0,0.72
+LOG-0765,PED-993179,"Flash Courier","Extrema (CD-03)","Sudeste",332,26.6,252,144,50,12,0,0,"No Prazo",0,0,0.14
+LOG-0766,PED-443503,"LogExpress","Extrema (CD-03)","Sudeste",351,0.6,4463,55,52,12,0,0,"No Prazo",0,0,0.12
+LOG-0767,PED-160493,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",293,0.4,340,45,46,12,0,0,"No Prazo",0,0,0.24
+LOG-0768,PED-744151,"LogExpress","Campinas (CD-02)","Sudeste",264,6,4112,69,54,23,0,1,"No Prazo",0,0,0.31
+LOG-0769,PED-205034,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1260,8.8,3140,151,104,29,0,0,"No Prazo",0,0,0.18
+LOG-0770,PED-935914,"Rota Ágil","Campinas (CD-02)","Sudeste",394,17.6,5415,106,52,12,0,0,"No Prazo",0,0,0.19
+LOG-0771,PED-333460,"Rota Ágil","São Paulo (CD-01)","Sudeste",326,2.2,83,64,53,12,0,0,"No Prazo",0,0,0.13
+LOG-0772,PED-797673,"TransBrasil Cargo","São Paulo (CD-01)","Sul",659,17.7,2637,134,72,20,0,0,"No Prazo",0,0,0.34
+LOG-0773,PED-228553,"Flash Courier","São Paulo (CD-01)","Sudeste",333,23.1,1314,125,47,12,0,0,"No Prazo",0,0,0.13
+LOG-0774,PED-126099,"Rota Ágil","Campinas (CD-02)","Sudeste",301,2.2,136,57,46,12,0,0,"No Prazo",0,0,0.12
+LOG-0775,PED-190312,"Flash Courier","Campinas (CD-02)","Sudeste",281,13,509,87,53,37,1,1,"No Prazo",0,0,0.51
+LOG-0776,PED-424949,"TransBrasil Cargo","Extrema (CD-03)","Sul",834,12.2,2043,127,77,24,0,0,"No Prazo",0,0,0.34
+LOG-0777,PED-850273,"Rota Ágil","Extrema (CD-03)","Nordeste",2280,25.8,884,295,135,65,0,1,"No Prazo",0,0,0.62
+LOG-0778,PED-293796,"Rota Ágil","São Paulo (CD-01)","Sul",923,24.2,1642,177,66,20,0,0,"No Prazo",0,0,0.28
+LOG-0779,PED-166342,"Rota Ágil","São Paulo (CD-01)","Sudeste",289,11.2,183,80,47,18,0,1,"No Prazo",0,0,0.34
+LOG-0780,PED-162411,"LogExpress","São Paulo (CD-01)","Centro-Oeste",933,4.2,2575,108,104,37,1,0,"No Prazo",0,0,0.45
+LOG-0781,PED-411026,"TransBrasil Cargo","São Paulo (CD-01)","Sul",824,11.7,365,133,68,23,0,0,"No Prazo",0,0,0.34
+LOG-0782,PED-211350,"Rota Ágil","Extrema (CD-03)","Sudeste",366,9.1,657,81,44,23,0,1,"No Prazo",0,0,0.34
+LOG-0783,PED-340289,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",261,0.6,82,46,52,12,0,0,"No Prazo",0,0,0.23
+LOG-0784,PED-187835,"Rota Ágil","Extrema (CD-03)","Sudeste",274,0.7,2487,52,47,12,0,0,"No Prazo",0,0,0.11
+LOG-0785,PED-202048,"Rota Ágil","Campinas (CD-02)","Sudeste",298,0.6,3345,55,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0786,PED-982928,"Rota Ágil","Extrema (CD-03)","Sudeste",281,17.3,75,100,53,21,0,1,"No Prazo",0,0,0.36
+LOG-0787,PED-533858,"Rota Ágil","Extrema (CD-03)","Sul",809,2.6,3722,95,67,22,0,0,"No Prazo",0,0,0.18
+LOG-0788,PED-628626,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1897,28,137,264,133,65,0,1,"No Prazo",0,0,0.71
+LOG-0789,PED-654324,"Rota Ágil","São Paulo (CD-01)","Nordeste",2170,26.1,2075,281,126,80,1,0,"No Prazo",0,0,0.68
+LOG-0790,PED-854791,"Flash Courier","Extrema (CD-03)","Sudeste",341,29,1346,143,49,26,0,1,"No Prazo",0,0,0.33
+LOG-0791,PED-243915,"Flash Courier","Campinas (CD-02)","Sudeste",370,21.3,1134,119,48,15,0,1,"No Prazo",0,0,0.3
+LOG-0792,PED-902253,"LogExpress","São Paulo (CD-01)","Sudeste",379,16.6,4559,115,50,12,0,0,"No Prazo",0,0,0.19
+LOG-0793,PED-619243,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",321,14.3,365,98,44,22,1,0,"No Prazo",0,0,0.54
+LOG-0794,PED-174571,"Rota Ágil","São Paulo (CD-01)","Sudeste",393,27.6,133,149,46,12,0,0,"No Prazo",0,0,0.23
+LOG-0795,PED-138784,"LogExpress","São Paulo (CD-01)","Norte",2684,9.1,220,263,192,64,0,0,"No Prazo",0,0,0.43
+LOG-0796,PED-869664,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",329,18.1,993,115,44,12,0,0,"No Prazo",0,0,0.31
+LOG-0797,PED-267210,"LogExpress","Extrema (CD-03)","Sul",636,2.4,1446,87,65,19,0,0,"No Prazo",0,0,0.16
+LOG-0798,PED-731423,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1256,18.1,119,181,103,44,1,0,"No Prazo",0,0,0.46
+LOG-0799,PED-172631,"Rota Ágil","Campinas (CD-02)","Sudeste",367,29.7,530,152,50,12,0,0,"No Prazo",0,0,0.23
+LOG-0800,PED-350733,"TransBrasil Cargo","Campinas (CD-02)","Norte",2429,12.4,777,260,176,63,0,0,"No Prazo",0,0,0.53
+LOG-0801,PED-895501,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2023,19.5,214,243,132,74,0,1,"No Prazo",0,0,0.69
+LOG-0802,PED-208699,"Flash Courier","Campinas (CD-02)","Sul",610,6.8,4134,102,78,18,0,0,"No Prazo",0,0,0.1
+LOG-0803,PED-634023,"LogExpress","Campinas (CD-02)","Nordeste",1721,17.9,2367,220,137,58,0,1,"No Prazo",0,0,0.53
+LOG-0804,PED-452546,"Flash Courier","São Paulo (CD-01)","Norte",3150,0.7,303,281,176,66,0,0,"No Prazo",0,0,0.37
+LOG-0805,PED-325092,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",1608,22.8,3858,224,132,44,0,0,"No Prazo",0,0,0.47
+LOG-0806,PED-364305,"Flash Courier","São Paulo (CD-01)","Sul",843,8.9,5206,125,76,16,0,0,"No Prazo",0,0,0.13
+LOG-0807,PED-270185,"Rota Ágil","Campinas (CD-02)","Nordeste",2355,21.8,511,286,130,56,0,0,"No Prazo",0,0,0.44
+LOG-0808,PED-642731,"LogExpress","São Paulo (CD-01)","Sudeste",332,6.1,1228,72,53,13,0,0,"No Prazo",0,0,0.14
+LOG-0809,PED-281944,"Flash Courier","São Paulo (CD-01)","Sul",706,31.1,181,177,75,43,1,0,"No Prazo",0,0,0.45
+LOG-0810,PED-141902,"LogExpress","Campinas (CD-02)","Centro-Oeste",893,0.5,555,100,101,64,1,1,"No Prazo",0,0,0.62
+LOG-0811,PED-585798,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1075,12.9,2748,147,91,40,0,1,"No Prazo",0,0,0.35
+LOG-0812,PED-664506,"LogExpress","São Paulo (CD-01)","Sudeste",268,35,1977,161,53,12,0,0,"No Prazo",0,0,0.24
+LOG-0813,PED-392608,"LogExpress","Campinas (CD-02)","Sul",618,1.4,191,72,70,15,0,0,"No Prazo",0,0,0.16
+LOG-0814,PED-487376,"Flash Courier","Extrema (CD-03)","Sudeste",393,24,1261,127,43,25,0,1,"No Prazo",0,0,0.32
+LOG-0815,PED-888074,"Flash Courier","São Paulo (CD-01)","Sudeste",344,2.1,789,61,45,36,1,0,"No Prazo",0,0,0.3
+LOG-0816,PED-563541,"Flash Courier","São Paulo (CD-01)","Sudeste",396,16.7,2459,117,49,12,0,0,"No Prazo",0,0,0.11
+LOG-0817,PED-419421,"TransBrasil Cargo","São Paulo (CD-01)","Sul",783,13.2,4783,123,69,34,0,1,"No Prazo",0,0,0.52
+LOG-0818,PED-630767,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",365,0.5,378,63,47,18,0,1,"No Prazo",0,0,0.42
+LOG-0819,PED-177993,"LogExpress","Campinas (CD-02)","Norte",3109,2.2,391,274,191,75,0,0,"No Prazo",0,0,0.45
+LOG-0820,PED-761651,"LogExpress","São Paulo (CD-01)","Centro-Oeste",1102,12.2,4298,153,100,30,0,0,"No Prazo",0,0,0.25
+LOG-0821,PED-111975,"Rota Ágil","Campinas (CD-02)","Nordeste",1634,34,1274,267,136,39,0,0,"No Prazo",0,0,0.4
+LOG-0822,PED-628966,"Rota Ágil","Campinas (CD-02)","Nordeste",1821,1.5,2702,181,129,44,0,0,"No Prazo",0,0,0.3
+LOG-0823,PED-212623,"LogExpress","Campinas (CD-02)","Sul",875,20,300,166,75,33,0,1,"No Prazo",0,0,0.44
+LOG-0824,PED-665173,"Rota Ágil","Campinas (CD-02)","Norte",2673,18.6,1646,294,190,64,0,0,"No Prazo",0,0,0.46
+LOG-0825,PED-996053,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1248,24.2,657,197,107,32,0,0,"No Prazo",0,0,0.44
+LOG-0826,PED-893599,"Flash Courier","São Paulo (CD-01)","Sul",807,2.6,5307,94,79,16,0,0,"No Prazo",0,0,0.1
+LOG-0827,PED-957812,"LogExpress","São Paulo (CD-01)","Sudeste",311,13.7,160,87,47,12,0,0,"No Prazo",0,0,0.17
+LOG-0828,PED-888692,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",856,13.8,1374,134,89,23,0,0,"No Prazo",0,0,0.23
+LOG-0829,PED-386238,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",253,28.3,2681,137,54,55,1,1,"Atrasado",1,209,0.77
+LOG-0830,PED-209764,"Flash Courier","São Paulo (CD-01)","Sudeste",306,12.5,634,96,52,25,1,0,"No Prazo",0,0,0.33
+LOG-0831,PED-483842,"LogExpress","São Paulo (CD-01)","Sudeste",399,0.5,1472,58,47,12,0,0,"No Prazo",0,0,0.13
+LOG-0832,PED-523055,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",321,19.6,2335,119,45,12,0,0,"No Prazo",0,0,0.31
+LOG-0833,PED-428935,"Flash Courier","Campinas (CD-02)","Sudeste",361,0.4,5182,59,46,12,0,0,"No Prazo",0,0,0.04
+LOG-0834,PED-801481,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1056,15.4,157,161,95,25,0,0,"No Prazo",0,0,0.18
+LOG-0835,PED-440694,"LogExpress","São Paulo (CD-01)","Sudeste",265,2.1,3847,51,44,19,0,1,"No Prazo",0,0,0.3
+LOG-0836,PED-675652,"TransBrasil Cargo","Extrema (CD-03)","Sul",735,19.2,912,140,74,23,0,0,"No Prazo",0,0,0.36
+LOG-0837,PED-928753,"Rota Ágil","Extrema (CD-03)","Sul",926,8.3,1699,120,76,25,0,0,"No Prazo",0,0,0.22
+LOG-0838,PED-648522,"Rota Ágil","Extrema (CD-03)","Sudeste",293,18.1,1114,110,54,12,0,0,"No Prazo",0,0,0.18
+LOG-0839,PED-434957,"Rota Ágil","São Paulo (CD-01)","Sudeste",306,1.1,3059,55,44,12,0,0,"No Prazo",0,0,0.12
+LOG-0840,PED-888059,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",367,7.1,121,77,52,12,0,0,"No Prazo",0,0,0.27
+LOG-0841,PED-807827,"LogExpress","São Paulo (CD-01)","Sudeste",262,2.4,336,61,50,24,0,1,"No Prazo",0,0,0.3
+LOG-0842,PED-131442,"LogExpress","Campinas (CD-02)","Sudeste",271,21.3,3243,112,47,12,0,0,"No Prazo",0,0,0.19
+LOG-0843,PED-531766,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",245,5.6,1546,63,53,18,0,1,"No Prazo",0,0,0.43
+LOG-0844,PED-335706,"LogExpress","Campinas (CD-02)","Sudeste",349,30,4545,154,50,13,0,0,"No Prazo",0,0,0.23
+LOG-0845,PED-783252,"LogExpress","Campinas (CD-02)","Nordeste",1879,14.2,192,226,130,45,0,0,"No Prazo",0,0,0.35
+LOG-0846,PED-497465,"Rota Ágil","Campinas (CD-02)","Sudeste",279,3.2,4865,59,50,27,0,1,"No Prazo",0,0,0.3
+LOG-0847,PED-476172,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1113,29.1,2870,210,95,21,0,0,"No Prazo",0,0,0.24
+LOG-0848,PED-804274,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",879,19.2,5023,160,99,23,0,0,"No Prazo",0,0,0.37
+LOG-0849,PED-599043,"Flash Courier","São Paulo (CD-01)","Centro-Oeste",1174,0.5,4772,119,109,36,0,1,"No Prazo",0,0,0.32
+LOG-0850,PED-599741,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1130,4.6,842,125,110,30,0,0,"No Prazo",0,0,0.23
+LOG-0851,PED-275065,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",388,22.1,662,133,48,15,0,0,"No Prazo",0,0,0.33
+LOG-0852,PED-217056,"Rota Ágil","São Paulo (CD-01)","Sul",900,33.2,4678,209,68,17,0,0,"No Prazo",0,0,0.31
+LOG-0853,PED-125713,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",1309,13.1,3546,174,87,33,0,0,"No Prazo",0,0,0.28
+LOG-0854,PED-601037,"LogExpress","Campinas (CD-02)","Sudeste",368,3.3,2304,72,51,12,0,0,"No Prazo",0,0,0.14
+LOG-0855,PED-443028,"LogExpress","Extrema (CD-03)","Sudeste",279,17.4,120,102,51,15,0,1,"No Prazo",0,0,0.36
+LOG-0856,PED-821273,"LogExpress","Campinas (CD-02)","Nordeste",1947,28.3,3099,276,113,50,0,0,"No Prazo",0,0,0.41
+LOG-0857,PED-610486,"Rota Ágil","Campinas (CD-02)","Sudeste",304,14.9,2049,99,44,12,0,0,"No Prazo",0,0,0.17
+LOG-0858,PED-266365,"Flash Courier","Extrema (CD-03)","Sudeste",247,33.8,2348,159,46,12,0,0,"No Prazo",0,0,0.16
+LOG-0859,PED-388912,"Rota Ágil","Campinas (CD-02)","Sul",620,15.8,1665,121,72,13,0,0,"No Prazo",0,0,0.21
+LOG-0860,PED-678125,"Rota Ágil","Extrema (CD-03)","Sul",669,3.4,5075,86,68,35,0,1,"No Prazo",0,0,0.35
+LOG-0861,PED-767249,"Rota Ágil","São Paulo (CD-01)","Sudeste",321,12.5,2685,87,50,12,0,0,"No Prazo",0,0,0.16
+LOG-0862,PED-470351,"Flash Courier","Extrema (CD-03)","Sudeste",248,0.4,348,43,48,12,0,0,"No Prazo",0,0,0.04
+LOG-0863,PED-540119,"Flash Courier","Campinas (CD-02)","Sul",803,33.9,1502,205,72,26,0,1,"No Prazo",0,0,0.4
+LOG-0864,PED-626234,"Flash Courier","Extrema (CD-03)","Sul",636,2.4,4456,80,70,15,0,0,"No Prazo",0,0,0.08
+LOG-0865,PED-276558,"Rota Ágil","São Paulo (CD-01)","Sudeste",262,33.2,3760,155,43,12,0,0,"No Prazo",0,0,0.24
+LOG-0866,PED-193549,"Rota Ágil","Extrema (CD-03)","Sul",843,9.3,833,118,67,57,1,1,"No Prazo",0,0,0.64
+LOG-0867,PED-239760,"Flash Courier","Campinas (CD-02)","Sudeste",277,16.1,532,98,54,12,0,0,"No Prazo",0,0,0.09
+LOG-0868,PED-884529,"Rota Ágil","Extrema (CD-03)","Sudeste",247,13.6,307,87,54,16,0,1,"No Prazo",0,0,0.34
+LOG-0869,PED-256060,"LogExpress","São Paulo (CD-01)","Sul",862,12.1,2279,136,73,37,1,0,"No Prazo",0,0,0.48
+LOG-0870,PED-352361,"LogExpress","São Paulo (CD-01)","Sul",954,27.5,74,194,72,33,0,1,"No Prazo",0,0,0.47
+LOG-0871,PED-487318,"Rota Ágil","São Paulo (CD-01)","Sudeste",357,14.8,1537,96,44,12,0,0,"No Prazo",0,0,0.18
+LOG-0872,PED-440420,"TransBrasil Cargo","Extrema (CD-03)","Sul",931,0.4,679,105,80,29,0,0,"No Prazo",0,0,0.31
+LOG-0873,PED-760189,"Rota Ágil","Campinas (CD-02)","Sudeste",241,30.5,4478,135,53,29,1,0,"No Prazo",0,0,0.47
+LOG-0874,PED-542137,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",835,27.3,2078,182,93,22,0,0,"No Prazo",0,0,0.4
+LOG-0875,PED-742461,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1358,29.6,165,236,93,45,0,1,"No Prazo",0,0,0.45
+LOG-0876,PED-804733,"LogExpress","Extrema (CD-03)","Sudeste",350,4.7,1321,71,45,12,0,0,"No Prazo",0,0,0.14
+LOG-0877,PED-452280,"Rota Ágil","Campinas (CD-02)","Sudeste",380,22.5,4009,122,44,39,1,0,"No Prazo",0,0,0.46
+LOG-0878,PED-842098,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",272,20.5,571,116,43,27,0,1,"No Prazo",0,0,0.49
+LOG-0879,PED-359463,"Flash Courier","São Paulo (CD-01)","Sudeste",369,30.1,1756,156,51,12,0,0,"No Prazo",0,0,0.16
+LOG-0880,PED-834787,"Rota Ágil","Campinas (CD-02)","Sul",869,14,930,134,69,24,0,0,"No Prazo",0,0,0.23
+LOG-0881,PED-676778,"Rota Ágil","São Paulo (CD-01)","Nordeste",1629,0.4,4237,158,116,35,0,0,"No Prazo",0,0,0.27
+LOG-0882,PED-485435,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2240,26,2313,294,119,73,0,1,"No Prazo",0,0,0.74
+LOG-0883,PED-319236,"Rota Ágil","São Paulo (CD-01)","Sudeste",359,6.3,3390,70,44,12,0,0,"No Prazo",0,0,0.15
+LOG-0884,PED-875115,"Flash Courier","São Paulo (CD-01)","Sudeste",301,20.5,3774,114,46,20,0,1,"No Prazo",0,0,0.29
+LOG-0885,PED-144795,"LogExpress","Campinas (CD-02)","Sudeste",303,19.7,3225,111,46,12,0,0,"No Prazo",0,0,0.19
+LOG-0886,PED-914564,"TransBrasil Cargo","Campinas (CD-02)","Sul",590,1.3,3738,72,77,56,1,1,"No Prazo",0,0,0.7
+LOG-0887,PED-139016,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",982,3,5252,119,103,24,0,0,"No Prazo",0,0,0.33
+LOG-0888,PED-803229,"Flash Courier","Extrema (CD-03)","Sudeste",372,3.8,3598,65,54,24,1,0,"No Prazo",0,0,0.31
+LOG-0889,PED-136103,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",391,24.8,268,135,53,20,0,1,"No Prazo",0,0,0.52
+LOG-0890,PED-513190,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",2132,1.6,4007,194,127,60,0,0,"No Prazo",0,0,0.45
+LOG-0891,PED-905181,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",865,26.8,4826,180,109,22,0,0,"No Prazo",0,0,0.4
+LOG-0892,PED-363838,"Rota Ágil","São Paulo (CD-01)","Sudeste",343,32.9,585,162,47,12,0,0,"No Prazo",0,0,0.24
+LOG-0893,PED-389162,"Flash Courier","Extrema (CD-03)","Sudeste",251,1.4,2408,51,48,12,0,0,"No Prazo",0,0,0.04
+LOG-0894,PED-681153,"LogExpress","Extrema (CD-03)","Sudeste",241,0.6,2215,47,54,16,0,1,"No Prazo",0,0,0.29
+LOG-0895,PED-271898,"Flash Courier","Campinas (CD-02)","Sudeste",302,29.1,861,143,50,12,0,0,"No Prazo",0,0,0.14
+LOG-0896,PED-511111,"Rota Ágil","São Paulo (CD-01)","Sudeste",366,1.3,3082,64,54,12,0,0,"No Prazo",0,0,0.13
+LOG-0897,PED-616990,"LogExpress","Extrema (CD-03)","Sul",948,34.7,500,214,76,41,1,0,"No Prazo",0,0,0.57
+LOG-0898,PED-974170,"TransBrasil Cargo","São Paulo (CD-01)","Sul",642,17.9,1073,131,79,23,0,1,"No Prazo",0,0,0.52
+LOG-0899,PED-917229,"Rota Ágil","São Paulo (CD-01)","Sudeste",335,34.8,1669,167,48,12,0,0,"No Prazo",0,0,0.25
+LOG-0900,PED-550887,"Rota Ágil","Campinas (CD-02)","Sudeste",351,32.7,125,159,51,12,0,0,"No Prazo",0,0,0.24
+LOG-0901,PED-751211,"LogExpress","São Paulo (CD-01)","Sudeste",343,35.2,2405,171,51,19,0,1,"No Prazo",0,0,0.43
+LOG-0902,PED-288483,"LogExpress","São Paulo (CD-01)","Sudeste",365,25,962,142,54,27,0,1,"No Prazo",0,0,0.4
+LOG-0903,PED-706080,"Flash Courier","Extrema (CD-03)","Norte",2543,22.5,1178,306,162,57,0,0,"No Prazo",0,0,0.38
+LOG-0904,PED-700848,"Flash Courier","São Paulo (CD-01)","Sudeste",354,17,2380,107,45,19,0,1,"No Prazo",0,0,0.29
+LOG-0905,PED-593213,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1228,3.4,602,142,92,34,0,0,"No Prazo",0,0,0.36
+LOG-0906,PED-168537,"Flash Courier","Campinas (CD-02)","Sudeste",345,31.4,190,150,53,12,0,0,"No Prazo",0,0,0.16
+LOG-0907,PED-910528,"Flash Courier","São Paulo (CD-01)","Sudeste",256,5.8,2249,68,53,12,0,0,"No Prazo",0,0,0.05
+LOG-0908,PED-719185,"LogExpress","Campinas (CD-02)","Sudeste",356,2,935,54,55,12,0,0,"No Prazo",0,0,0.13
+LOG-0909,PED-194510,"Rota Ágil","Extrema (CD-03)","Sul",664,0.8,147,88,79,44,1,0,"No Prazo",0,0,0.41
+LOG-0910,PED-583865,"Flash Courier","Extrema (CD-03)","Sudeste",356,10.3,5542,80,46,22,0,1,"No Prazo",0,0,0.26
+LOG-0911,PED-228545,"Flash Courier","Campinas (CD-02)","Centro-Oeste",909,29,735,189,101,24,0,0,"No Prazo",0,0,0.21
+LOG-0912,PED-998314,"Rota Ágil","Campinas (CD-02)","Nordeste",2216,4.6,983,213,111,48,0,0,"No Prazo",0,0,0.36
+LOG-0913,PED-934749,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",838,29.8,4293,184,96,22,0,0,"No Prazo",0,0,0.29
+LOG-0914,PED-637851,"Flash Courier","Extrema (CD-03)","Sudeste",331,5.9,1015,68,46,24,0,1,"No Prazo",0,0,0.24
+LOG-0915,PED-660077,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",293,18.8,5026,105,44,12,0,0,"No Prazo",0,0,0.3
+LOG-0916,PED-643734,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",317,6.8,4650,67,55,37,1,0,"No Prazo",0,0,0.51
+LOG-0917,PED-729618,"Rota Ágil","Campinas (CD-02)","Sul",644,26,1420,163,68,25,0,1,"No Prazo",0,0,0.43
+LOG-0918,PED-579158,"LogExpress","São Paulo (CD-01)","Sul",740,0.7,3593,88,73,19,0,0,"No Prazo",0,0,0.17
+LOG-0919,PED-857260,"LogExpress","Extrema (CD-03)","Sul",682,10.2,5354,119,69,16,0,0,"No Prazo",0,0,0.2
+LOG-0920,PED-602029,"TransBrasil Cargo","São Paulo (CD-01)","Sul",610,8.2,4526,106,69,31,1,0,"No Prazo",0,0,0.55
+LOG-0921,PED-723560,"TransBrasil Cargo","São Paulo (CD-01)","Sul",804,2.9,184,93,76,70,1,1,"No Prazo",0,0,0.73
+LOG-0922,PED-468383,"TransBrasil Cargo","Campinas (CD-02)","Sul",736,7.7,5140,108,77,23,0,0,"No Prazo",0,0,0.31
+LOG-0923,PED-654818,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",962,33.1,2793,203,109,21,0,0,"No Prazo",0,0,0.32
+LOG-0924,PED-607920,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",305,5.9,1563,73,52,12,0,0,"No Prazo",0,0,0.26
+LOG-0925,PED-927689,"Rota Ágil","São Paulo (CD-01)","Nordeste",1977,3.8,88,189,128,49,0,0,"No Prazo",0,0,0.32
+LOG-0926,PED-414124,"Flash Courier","São Paulo (CD-01)","Sudeste",285,6.3,64,70,49,12,0,0,"No Prazo",0,0,0.06
+LOG-0927,PED-567226,"Flash Courier","Campinas (CD-02)","Sudeste",292,4.9,95,60,53,12,0,0,"No Prazo",0,0,0.05
+LOG-0928,PED-186994,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",1789,23.4,4228,241,118,51,0,0,"No Prazo",0,0,0.5
+LOG-0929,PED-773429,"Flash Courier","São Paulo (CD-01)","Sul",965,8.6,70,135,77,21,0,0,"No Prazo",0,0,0.14
+LOG-0930,PED-226531,"Rota Ágil","São Paulo (CD-01)","Sul",940,32.5,623,201,75,36,0,1,"No Prazo",0,0,0.49
+LOG-0931,PED-327924,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1363,5.1,471,153,101,78,1,1,"No Prazo",0,0,0.61
+LOG-0932,PED-449135,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1171,13.6,477,169,97,30,0,0,"No Prazo",0,0,0.39
+LOG-0933,PED-643904,"LogExpress","São Paulo (CD-01)","Sudeste",391,0.4,2735,56,54,12,0,0,"No Prazo",0,0,0.13
+LOG-0934,PED-905339,"Rota Ágil","Extrema (CD-03)","Sudeste",382,16.5,1573,104,46,20,0,1,"No Prazo",0,0,0.37
+LOG-0935,PED-428260,"Flash Courier","São Paulo (CD-01)","Sudeste",261,8,4433,66,48,33,1,1,"No Prazo",0,0,0.49
+LOG-0936,PED-809193,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",281,1.9,2217,50,53,12,0,0,"No Prazo",0,0,0.24
+LOG-0937,PED-312295,"LogExpress","São Paulo (CD-01)","Sudeste",386,0.7,4971,57,44,44,1,1,"No Prazo",0,0,0.56
+LOG-0938,PED-408969,"LogExpress","Campinas (CD-02)","Sul",587,2,1499,83,77,29,0,1,"No Prazo",0,0,0.34
+LOG-0939,PED-197399,"Rota Ágil","São Paulo (CD-01)","Sudeste",281,25.2,1575,125,50,19,0,1,"No Prazo",0,0,0.39
+LOG-0940,PED-396709,"Flash Courier","São Paulo (CD-01)","Sudeste",345,0.4,1032,53,52,54,1,1,"Atrasado",2,89,0.47
+LOG-0941,PED-363753,"Rota Ágil","Extrema (CD-03)","Nordeste",2353,1.4,4703,212,118,55,0,0,"No Prazo",0,0,0.36
+LOG-0942,PED-983522,"Rota Ágil","Campinas (CD-02)","Nordeste",1821,6.8,3677,196,127,43,0,0,"No Prazo",0,0,0.32
+LOG-0943,PED-769957,"Rota Ágil","Extrema (CD-03)","Sul",761,25,119,168,79,15,0,0,"No Prazo",0,0,0.26
+LOG-0944,PED-323059,"TransBrasil Cargo","Campinas (CD-02)","Sul",909,1,1347,101,73,28,0,0,"No Prazo",0,0,0.31
+LOG-0945,PED-242827,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",921,29.9,2032,187,93,34,0,1,"No Prazo",0,0,0.6
+LOG-0946,PED-166442,"Rota Ágil","Extrema (CD-03)","Sudeste",384,1.2,3578,67,51,12,0,0,"No Prazo",0,0,0.13
+LOG-0947,PED-566766,"Rota Ágil","São Paulo (CD-01)","Sudeste",358,19.7,1778,113,46,12,0,0,"No Prazo",0,0,0.2
+LOG-0948,PED-333757,"Rota Ágil","Campinas (CD-02)","Sul",622,0.6,5011,79,68,12,0,0,"No Prazo",0,0,0.15
+LOG-0949,PED-967415,"TransBrasil Cargo","Campinas (CD-02)","Sul",834,23.8,2270,174,68,20,0,0,"No Prazo",0,0,0.39
+LOG-0950,PED-367739,"LogExpress","São Paulo (CD-01)","Sul",598,15.1,493,124,81,15,0,0,"No Prazo",0,0,0.21
+LOG-0951,PED-934729,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1346,1.9,1787,141,89,47,0,1,"No Prazo",0,0,0.34
+LOG-0952,PED-760891,"LogExpress","Campinas (CD-02)","Sudeste",263,1.4,990,48,52,26,0,1,"No Prazo",0,0,0.3
+LOG-0953,PED-934043,"Flash Courier","Extrema (CD-03)","Sudeste",348,21,541,119,51,17,0,1,"No Prazo",0,0,0.3
+LOG-0954,PED-634741,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1716,18,1013,226,118,46,0,0,"No Prazo",0,0,0.47
+LOG-0955,PED-310065,"LogExpress","São Paulo (CD-01)","Sudeste",340,1.4,813,59,52,12,0,0,"No Prazo",0,0,0.12
+LOG-0956,PED-252056,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1108,5.3,5078,132,99,32,0,1,"No Prazo",0,0,0.33
+LOG-0957,PED-688634,"TransBrasil Cargo","Extrema (CD-03)","Sul",952,25.8,611,183,76,43,0,1,"No Prazo",0,0,0.59
+LOG-0958,PED-847202,"LogExpress","Campinas (CD-02)","Sul",850,15.3,53,144,76,25,0,0,"No Prazo",0,0,0.24
+LOG-0959,PED-383638,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",264,1.1,61,57,53,20,0,1,"No Prazo",0,0,0.41
+LOG-0960,PED-458641,"Flash Courier","Extrema (CD-03)","Nordeste",1901,1.4,249,183,131,51,0,1,"No Prazo",0,0,0.41
+LOG-0961,PED-150081,"Rota Ágil","Campinas (CD-02)","Sudeste",396,0.8,1153,55,47,12,0,0,"No Prazo",0,0,0.13
+LOG-0962,PED-147627,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",275,3.6,280,62,43,35,1,0,"No Prazo",0,0,0.5
+LOG-0963,PED-516612,"Flash Courier","São Paulo (CD-01)","Sul",746,9.7,5266,114,71,15,0,0,"No Prazo",0,0,0.12
+LOG-0964,PED-628047,"TransBrasil Cargo","Campinas (CD-02)","Sul",660,31.7,2266,186,74,50,1,0,"No Prazo",0,0,0.65
+LOG-0965,PED-588468,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",280,6.2,1356,63,53,12,0,0,"No Prazo",0,0,0.26
+LOG-0966,PED-180459,"Flash Courier","Campinas (CD-02)","Sudeste",253,26.3,2609,124,54,14,0,1,"No Prazo",0,0,0.31
+LOG-0967,PED-712870,"Rota Ágil","Extrema (CD-03)","Sudeste",357,1.9,3735,53,51,26,0,1,"No Prazo",0,0,0.31
+LOG-0968,PED-617272,"Rota Ágil","Extrema (CD-03)","Sul",830,0.7,4556,90,75,34,0,1,"No Prazo",0,0,0.36
+LOG-0969,PED-874220,"TransBrasil Cargo","Campinas (CD-02)","Centro-Oeste",1099,2.4,162,124,92,33,0,0,"No Prazo",0,0,0.34
+LOG-0970,PED-474544,"Rota Ágil","Campinas (CD-02)","Sudeste",365,13.5,51,96,50,22,0,1,"No Prazo",0,0,0.35
+LOG-0971,PED-411817,"Flash Courier","Campinas (CD-02)","Sul",855,11,294,125,81,16,0,0,"No Prazo",0,0,0.14
+LOG-0972,PED-359363,"Flash Courier","Campinas (CD-02)","Sul",669,4.7,4623,87,69,15,0,0,"No Prazo",0,0,0.1
+LOG-0973,PED-473576,"Rota Ágil","Extrema (CD-03)","Sudeste",370,0.7,145,58,45,12,0,0,"No Prazo",0,0,0.13
+LOG-0974,PED-454456,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",906,9,1630,127,95,64,1,0,"No Prazo",0,0,0.59
+LOG-0975,PED-513719,"Rota Ágil","São Paulo (CD-01)","Nordeste",1604,23.4,1520,229,130,38,0,0,"No Prazo",0,0,0.35
+LOG-0976,PED-108487,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1261,13,452,165,100,47,1,0,"No Prazo",0,0,0.53
+LOG-0977,PED-142519,"Flash Courier","São Paulo (CD-01)","Sudeste",324,8.1,1053,73,50,28,0,1,"No Prazo",0,0,0.25
+LOG-0978,PED-751319,"LogExpress","Campinas (CD-02)","Sudeste",347,10.2,1048,89,52,12,0,0,"No Prazo",0,0,0.16
+LOG-0979,PED-707199,"TransBrasil Cargo","São Paulo (CD-01)","Sul",835,2.1,3596,96,70,26,0,0,"No Prazo",0,0,0.31
+LOG-0980,PED-229745,"LogExpress","Campinas (CD-02)","Sudeste",244,2,56,58,52,45,1,1,"No Prazo",0,0,0.55
+LOG-0981,PED-832438,"Flash Courier","Campinas (CD-02)","Sudeste",365,5.1,4165,77,46,12,0,0,"No Prazo",0,0,0.06
+LOG-0982,PED-316095,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1216,1.2,459,127,93,34,0,0,"No Prazo",0,0,0.35
+LOG-0983,PED-366419,"Flash Courier","São Paulo (CD-01)","Sul",778,0.4,2327,92,66,21,0,0,"No Prazo",0,0,0.09
+LOG-0984,PED-683410,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",368,15,2330,96,47,12,0,0,"No Prazo",0,0,0.3
+LOG-0985,PED-967067,"Rota Ágil","Campinas (CD-02)","Nordeste",1742,15.9,4914,212,125,57,0,1,"No Prazo",0,0,0.52
+LOG-0986,PED-552951,"LogExpress","Extrema (CD-03)","Sul",871,2.3,5220,104,81,34,0,1,"No Prazo",0,0,0.37
+LOG-0987,PED-202492,"TransBrasil Cargo","Campinas (CD-02)","Sul",620,27.9,64,166,75,21,0,0,"No Prazo",0,0,0.38
+LOG-0988,PED-780594,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",976,15.7,1796,150,103,33,0,1,"No Prazo",0,0,0.43
+LOG-0989,PED-488236,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",385,24.7,1898,128,47,25,0,1,"No Prazo",0,0,0.52
+LOG-0990,PED-853981,"LogExpress","São Paulo (CD-01)","Sudeste",316,2,265,53,48,12,0,0,"No Prazo",0,0,0.12
+LOG-0991,PED-493194,"Flash Courier","São Paulo (CD-01)","Sul",668,21.1,4399,152,67,34,0,1,"No Prazo",0,0,0.34
+LOG-0992,PED-278152,"TransBrasil Cargo","Campinas (CD-02)","Sul",952,22.1,5059,167,66,29,0,0,"No Prazo",0,0,0.39
+LOG-0993,PED-531253,"Rota Ágil","Campinas (CD-02)","Sul",754,10.3,112,113,68,14,0,0,"No Prazo",0,0,0.21
+LOG-0994,PED-251022,"Rota Ágil","Campinas (CD-02)","Sul",931,20.9,5531,171,73,18,0,0,"No Prazo",0,0,0.27
+LOG-0995,PED-937457,"Rota Ágil","Extrema (CD-03)","Sudeste",395,1.9,538,65,51,12,0,0,"No Prazo",0,0,0.13
+LOG-0996,PED-490559,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",296,9,2532,78,47,12,0,0,"No Prazo",0,0,0.27
+LOG-0997,PED-410327,"TransBrasil Cargo","Extrema (CD-03)","Sul",856,3.5,3451,98,67,26,0,0,"No Prazo",0,0,0.31
+LOG-0998,PED-396763,"LogExpress","Extrema (CD-03)","Sudeste",347,3.3,573,69,53,12,0,0,"No Prazo",0,0,0.13
+LOG-0999,PED-149864,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1339,0.9,4548,137,88,27,0,0,"No Prazo",0,0,0.16
+LOG-1000,PED-269633,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",267,8.6,370,81,49,16,0,1,"No Prazo",0,0,0.44
+LOG-1001,PED-984915,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",399,34.5,2408,171,54,12,0,0,"No Prazo",0,0,0.38
+LOG-1002,PED-385239,"Rota Ágil","Extrema (CD-03)","Sudeste",302,24,556,126,51,40,1,0,"No Prazo",0,0,0.46
+LOG-1003,PED-580844,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",298,13.6,1185,97,45,22,0,1,"No Prazo",0,0,0.47
+LOG-1004,PED-856774,"LogExpress","Campinas (CD-02)","Sudeste",265,3.6,50,54,50,12,0,0,"No Prazo",0,0,0.12
+LOG-1005,PED-651543,"LogExpress","Campinas (CD-02)","Sudeste",351,14.2,5385,106,55,12,0,0,"No Prazo",0,0,0.17
+LOG-1006,PED-512978,"LogExpress","Extrema (CD-03)","Sudeste",378,1.1,795,66,46,12,0,0,"No Prazo",0,0,0.13
+LOG-1007,PED-141080,"Rota Ágil","Campinas (CD-02)","Sudeste",292,9.8,3795,86,55,12,0,0,"No Prazo",0,0,0.15
+LOG-1008,PED-135848,"Flash Courier","Extrema (CD-03)","Sul",877,6.1,53,115,81,23,0,0,"No Prazo",0,0,0.13
+LOG-1009,PED-197283,"Flash Courier","São Paulo (CD-01)","Sul",899,8.3,2221,122,77,17,0,0,"No Prazo",0,0,0.14
+LOG-1010,PED-925385,"LogExpress","São Paulo (CD-01)","Sudeste",265,6,571,61,55,12,0,0,"No Prazo",0,0,0.13
+LOG-1011,PED-220154,"Rota Ágil","São Paulo (CD-01)","Sul",770,24,2963,166,73,19,0,0,"No Prazo",0,0,0.26
+LOG-1012,PED-481589,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1055,8.1,1746,135,106,34,0,1,"No Prazo",0,0,0.33
+LOG-1013,PED-229510,"Flash Courier","Campinas (CD-02)","Sul",939,8.9,212,132,68,57,1,0,"No Prazo",0,0,0.39
+LOG-1014,PED-318865,"LogExpress","Extrema (CD-03)","Nordeste",1559,11.7,2782,186,117,64,1,0,"No Prazo",0,0,0.56
+LOG-1015,PED-563545,"Flash Courier","São Paulo (CD-01)","Sudeste",271,14.4,2942,92,47,12,0,0,"No Prazo",0,0,0.09
+LOG-1016,PED-433314,"Rota Ágil","São Paulo (CD-01)","Sudeste",370,0.4,3432,52,53,12,0,0,"No Prazo",0,0,0.12
+LOG-1017,PED-369749,"Rota Ágil","Extrema (CD-03)","Sudeste",250,14.9,395,90,44,51,1,1,"Atrasado",7,135,0.6
+LOG-1018,PED-471979,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",367,5,4859,71,46,20,0,1,"No Prazo",0,0,0.44
+LOG-1019,PED-779853,"LogExpress","São Paulo (CD-01)","Sudeste",398,32.4,995,164,45,12,0,0,"No Prazo",0,0,0.25
+LOG-1020,PED-857955,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1349,24.8,810,207,96,72,1,1,"No Prazo",0,0,0.88
+LOG-1021,PED-275462,"Flash Courier","Extrema (CD-03)","Sudeste",251,2.9,4033,53,45,12,0,0,"No Prazo",0,0,0.04
+LOG-1022,PED-748009,"LogExpress","Campinas (CD-02)","Centro-Oeste",921,14.8,151,151,87,30,0,1,"No Prazo",0,0,0.42
+LOG-1023,PED-944077,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",393,31.6,4303,159,44,15,0,0,"No Prazo",0,0,0.36
+LOG-1024,PED-930513,"LogExpress","São Paulo (CD-01)","Sudeste",388,30.9,936,153,52,12,0,0,"No Prazo",0,0,0.24
+LOG-1025,PED-683614,"Flash Courier","São Paulo (CD-01)","Sul",661,22.1,5522,143,83,14,0,0,"No Prazo",0,0,0.16
+LOG-1026,PED-803383,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",308,1.2,664,54,48,12,0,0,"No Prazo",0,0,0.24
+LOG-1027,PED-989818,"Rota Ágil","Extrema (CD-03)","Sudeste",286,17.3,84,99,51,18,0,1,"No Prazo",0,0,0.36
+LOG-1028,PED-393989,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",250,29.2,3685,138,55,12,0,0,"No Prazo",0,0,0.34
+LOG-1029,PED-960979,"Rota Ágil","São Paulo (CD-01)","Sul",966,8.9,96,129,67,24,0,0,"No Prazo",0,0,0.23
+LOG-1030,PED-594637,"LogExpress","Extrema (CD-03)","Sudeste",252,7.8,2486,66,47,42,1,0,"No Prazo",0,0,0.39
+LOG-1031,PED-326354,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",314,2.4,1556,56,52,12,0,0,"No Prazo",0,0,0.25
+LOG-1032,PED-407233,"TransBrasil Cargo","Campinas (CD-02)","Sul",680,6.2,58,103,77,38,0,1,"No Prazo",0,0,0.48
+LOG-1033,PED-899830,"LogExpress","São Paulo (CD-01)","Sudeste",373,7.3,206,81,45,12,0,0,"No Prazo",0,0,0.15
+LOG-1034,PED-894598,"Rota Ágil","Campinas (CD-02)","Sul",686,4.2,787,90,66,15,0,0,"No Prazo",0,0,0.18
+LOG-1035,PED-956033,"Rota Ágil","Extrema (CD-03)","Sul",708,6.1,5240,96,80,17,0,0,"No Prazo",0,0,0.19
+LOG-1036,PED-784135,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",347,4.1,2379,73,45,13,0,0,"No Prazo",0,0,0.26
+LOG-1037,PED-978904,"LogExpress","Extrema (CD-03)","Sul",968,20.2,78,167,76,21,0,0,"No Prazo",0,0,0.27
+LOG-1038,PED-340339,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1335,5.9,4489,147,110,45,0,1,"No Prazo",0,0,0.44
+LOG-1039,PED-463260,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",374,23.8,4823,137,52,38,1,0,"No Prazo",0,0,0.58
+LOG-1040,PED-927615,"LogExpress","Campinas (CD-02)","Centro-Oeste",1068,4.2,4321,132,93,39,0,1,"No Prazo",0,0,0.4
+LOG-1041,PED-647295,"LogExpress","São Paulo (CD-01)","Sul",956,22.6,607,173,78,35,0,1,"No Prazo",0,0,0.46
+LOG-1042,PED-402854,"LogExpress","Campinas (CD-02)","Sul",659,6.5,318,95,68,16,0,0,"No Prazo",0,0,0.18
+LOG-1043,PED-486512,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1259,26.2,530,211,108,32,0,1,"No Prazo",0,0,0.43
+LOG-1044,PED-405729,"Rota Ágil","Campinas (CD-02)","Sudeste",301,5.2,769,64,49,39,1,1,"No Prazo",0,0,0.56
+LOG-1045,PED-890366,"LogExpress","Campinas (CD-02)","Norte",2675,3.4,5039,256,163,72,0,1,"No Prazo",0,0,0.58
+LOG-1046,PED-428333,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",274,7.3,100,66,52,12,0,0,"No Prazo",0,0,0.26
+LOG-1047,PED-434212,"LogExpress","Extrema (CD-03)","Sul",941,10.1,1580,133,77,43,0,1,"No Prazo",0,0,0.41
+LOG-1048,PED-658059,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",379,24.4,4098,135,45,12,0,0,"No Prazo",0,0,0.34
+LOG-1049,PED-577827,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",274,15,5251,89,55,16,0,1,"No Prazo",0,0,0.47
+LOG-1050,PED-201442,"Flash Courier","São Paulo (CD-01)","Sudeste",336,10.3,3928,88,44,17,0,1,"No Prazo",0,0,0.26
+LOG-1051,PED-724826,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",254,14.3,4609,93,48,12,0,0,"No Prazo",0,0,0.28
+LOG-1052,PED-705706,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",1060,34.7,596,222,101,21,0,0,"No Prazo",0,0,0.33
+LOG-1053,PED-253252,"Rota Ágil","Campinas (CD-02)","Sudeste",267,17.6,1848,104,53,12,0,0,"No Prazo",0,0,0.18
+LOG-1054,PED-867465,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1369,5,711,148,101,65,1,0,"No Prazo",0,0,0.43
+LOG-1055,PED-246172,"Rota Ágil","Campinas (CD-02)","Sul",819,4.6,1216,109,79,19,0,0,"No Prazo",0,0,0.19
+LOG-1056,PED-574274,"Flash Courier","Extrema (CD-03)","Sul",653,1.2,2709,86,82,16,0,0,"No Prazo",0,0,0.08
+LOG-1057,PED-369043,"Flash Courier","Extrema (CD-03)","Sul",863,8.7,2527,122,71,47,1,0,"No Prazo",0,0,0.38
+LOG-1058,PED-669741,"LogExpress","Campinas (CD-02)","Nordeste",2404,0.6,1200,221,129,62,0,0,"No Prazo",0,0,0.36
+LOG-1059,PED-345065,"Rota Ágil","Campinas (CD-02)","Sudeste",293,10.9,981,81,44,19,0,1,"No Prazo",0,0,0.34
+LOG-1060,PED-401087,"Rota Ágil","Extrema (CD-03)","Sudeste",353,35.1,368,172,47,12,0,0,"No Prazo",0,0,0.25
+LOG-1061,PED-423634,"Rota Ágil","Extrema (CD-03)","Sudeste",290,27.9,53,142,51,12,0,0,"No Prazo",0,0,0.22
+LOG-1062,PED-612847,"LogExpress","São Paulo (CD-01)","Sudeste",399,19.7,641,119,51,12,0,0,"No Prazo",0,0,0.2
+LOG-1063,PED-668726,"Flash Courier","Campinas (CD-02)","Sul",746,2.2,3710,91,82,23,0,1,"No Prazo",0,0,0.28
+LOG-1064,PED-921739,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",394,1.6,1492,58,46,15,0,0,"No Prazo",0,0,0.25
+LOG-1065,PED-591508,"Flash Courier","Extrema (CD-03)","Sudeste",351,0.4,719,49,45,12,0,0,"No Prazo",0,0,0.04
+LOG-1066,PED-327943,"Rota Ágil","Extrema (CD-03)","Centro-Oeste",854,0.6,1984,93,108,66,1,1,"No Prazo",0,0,0.61
+LOG-1067,PED-946840,"Rota Ágil","Extrema (CD-03)","Norte",3436,8.8,238,326,166,115,1,0,"No Prazo",0,0,0.76
+LOG-1068,PED-963047,"TransBrasil Cargo","Campinas (CD-02)","Norte",2466,16.3,50,282,161,68,0,0,"No Prazo",0,0,0.55
+LOG-1069,PED-841149,"Flash Courier","Extrema (CD-03)","Sudeste",289,32.8,3077,154,54,12,0,0,"No Prazo",0,0,0.16
+LOG-1070,PED-185918,"LogExpress","Campinas (CD-02)","Norte",2626,23.2,310,313,185,69,0,0,"No Prazo",0,0,0.47
+LOG-1071,PED-497353,"Flash Courier","Campinas (CD-02)","Sudeste",242,24,106,117,49,12,0,0,"No Prazo",0,0,0.12
+LOG-1072,PED-575455,"Rota Ágil","Campinas (CD-02)","Nordeste",2411,17.5,68,277,131,61,0,1,"No Prazo",0,0,0.61
+LOG-1073,PED-291431,"Flash Courier","Extrema (CD-03)","Nordeste",1519,21.5,3143,211,125,34,0,0,"No Prazo",0,0,0.26
+LOG-1074,PED-650088,"LogExpress","São Paulo (CD-01)","Sudeste",341,27.1,143,139,55,59,1,1,"Atrasado",4,163,0.65
+LOG-1075,PED-211577,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",316,4.2,74,65,54,12,0,0,"No Prazo",0,0,0.25
+LOG-1076,PED-198013,"LogExpress","Extrema (CD-03)","Norte",2772,3.9,1948,257,177,83,0,1,"No Prazo",0,0,0.6
+LOG-1077,PED-610516,"LogExpress","São Paulo (CD-01)","Centro-Oeste",890,2.1,115,108,109,26,0,0,"No Prazo",0,0,0.19
+LOG-1078,PED-377507,"LogExpress","Extrema (CD-03)","Nordeste",1928,11.2,1416,212,134,46,0,0,"No Prazo",0,0,0.35
+LOG-1079,PED-111165,"Flash Courier","Extrema (CD-03)","Centro-Oeste",836,3.6,236,104,108,16,0,0,"No Prazo",0,0,0.11
+LOG-1080,PED-411489,"TransBrasil Cargo","Campinas (CD-02)","Norte",2731,0.8,3861,243,178,91,0,1,"No Prazo",0,0,0.7
+LOG-1081,PED-832094,"LogExpress","São Paulo (CD-01)","Sudeste",343,1.1,350,61,49,12,0,0,"No Prazo",0,0,0.12
+LOG-1082,PED-879641,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",337,18.1,61,103,50,45,1,1,"No Prazo",0,0,0.74
+LOG-1083,PED-894834,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",300,0.4,331,51,51,30,0,1,"No Prazo",0,0,0.42
+LOG-1084,PED-864745,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",1850,2.6,3039,179,132,51,0,0,"No Prazo",0,0,0.43
+LOG-1085,PED-553958,"Flash Courier","Extrema (CD-03)","Sudeste",377,1.9,1341,65,54,12,0,0,"No Prazo",0,0,0.05
+LOG-1086,PED-109837,"Rota Ágil","São Paulo (CD-01)","Sudeste",248,21.5,1006,114,47,12,0,0,"No Prazo",0,0,0.19
+LOG-1087,PED-132384,"Rota Ágil","Campinas (CD-02)","Sudeste",345,15.8,273,102,51,12,0,0,"No Prazo",0,0,0.18
+LOG-1088,PED-321597,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",294,9.7,1448,87,51,12,0,0,"No Prazo",0,0,0.27
+LOG-1089,PED-377476,"Rota Ágil","São Paulo (CD-01)","Sul",880,32.3,5464,192,82,21,0,0,"No Prazo",0,0,0.3
+LOG-1090,PED-900023,"LogExpress","Extrema (CD-03)","Sudeste",334,19.7,656,109,46,12,0,0,"No Prazo",0,0,0.19
+LOG-1091,PED-689236,"Flash Courier","São Paulo (CD-01)","Sul",775,8.7,249,122,67,18,0,0,"No Prazo",0,0,0.12
+LOG-1092,PED-345115,"TransBrasil Cargo","Campinas (CD-02)","Sul",635,24.5,351,150,70,16,0,0,"No Prazo",0,0,0.37
+LOG-1093,PED-467662,"Rota Ágil","São Paulo (CD-01)","Nordeste",1636,9.4,142,187,122,53,0,1,"No Prazo",0,0,0.49
+LOG-1094,PED-684564,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",255,12.1,1795,81,44,25,0,1,"No Prazo",0,0,0.46
+LOG-1095,PED-504012,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",263,0.5,595,46,50,12,0,0,"No Prazo",0,0,0.23
+LOG-1096,PED-254336,"LogExpress","Campinas (CD-02)","Nordeste",2041,13.1,732,226,110,50,0,0,"No Prazo",0,0,0.37
+LOG-1097,PED-271327,"Rota Ágil","Extrema (CD-03)","Sudeste",330,26.6,52,133,55,17,0,1,"No Prazo",0,0,0.4
+LOG-1098,PED-901655,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1122,34.3,102,231,109,28,0,0,"No Prazo",0,0,0.34
+LOG-1099,PED-265868,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",992,29.9,1338,202,87,29,0,0,"No Prazo",0,0,0.43
+LOG-1100,PED-396747,"Rota Ágil","Campinas (CD-02)","Sudeste",369,9.2,67,88,48,26,0,1,"No Prazo",0,0,0.34
+LOG-1101,PED-318510,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",999,9.7,4342,140,110,48,0,1,"No Prazo",0,0,0.53
+LOG-1102,PED-751153,"Flash Courier","Extrema (CD-03)","Sudeste",307,24,2785,134,51,12,0,0,"No Prazo",0,0,0.13
+LOG-1103,PED-109810,"Flash Courier","Campinas (CD-02)","Sul",798,1.3,5268,98,70,16,0,0,"No Prazo",0,0,0.1
+LOG-1104,PED-935135,"Rota Ágil","Campinas (CD-02)","Sudeste",324,11.7,283,84,51,38,1,1,"No Prazo",0,0,0.59
+LOG-1105,PED-791068,"LogExpress","São Paulo (CD-01)","Sul",611,18.7,753,137,72,17,0,0,"No Prazo",0,0,0.22
+LOG-1106,PED-744170,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",276,0.9,220,48,46,16,0,1,"No Prazo",0,0,0.42
+LOG-1107,PED-987229,"LogExpress","Extrema (CD-03)","Sudeste",241,20.5,2166,105,45,19,0,1,"No Prazo",0,0,0.36
+LOG-1108,PED-363391,"LogExpress","São Paulo (CD-01)","Sudeste",352,2.2,5245,59,47,12,0,0,"No Prazo",0,0,0.13
+LOG-1109,PED-577604,"Rota Ágil","São Paulo (CD-01)","Sudeste",359,20.4,553,117,55,19,0,1,"No Prazo",0,0,0.38
+LOG-1110,PED-847978,"LogExpress","Campinas (CD-02)","Sul",936,24.8,3064,187,81,22,0,0,"No Prazo",0,0,0.28
+LOG-1111,PED-476080,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",1024,2.1,264,121,102,20,0,0,"No Prazo",0,0,0.21
+LOG-1112,PED-470848,"Flash Courier","Extrema (CD-03)","Norte",3261,0.7,909,289,176,100,1,0,"No Prazo",0,0,0.63
+LOG-1113,PED-663213,"Flash Courier","Extrema (CD-03)","Nordeste",1602,0.4,906,153,137,34,0,0,"No Prazo",0,0,0.19
+LOG-1114,PED-238537,"Rota Ágil","Campinas (CD-02)","Sudeste",251,17.9,360,106,50,22,0,1,"No Prazo",0,0,0.36
+LOG-1115,PED-986226,"Rota Ágil","Campinas (CD-02)","Sul",624,19.3,206,139,83,17,0,0,"No Prazo",0,0,0.23
+LOG-1116,PED-608773,"LogExpress","Campinas (CD-02)","Sudeste",388,9.7,1472,91,46,27,1,0,"No Prazo",0,0,0.41
+LOG-1117,PED-759008,"Flash Courier","Campinas (CD-02)","Centro-Oeste",941,6.2,1624,115,87,25,0,0,"No Prazo",0,0,0.13
+LOG-1118,PED-495443,"Rota Ágil","Campinas (CD-02)","Sudeste",332,7.4,3388,73,52,12,0,0,"No Prazo",0,0,0.15
+LOG-1119,PED-898545,"Flash Courier","Extrema (CD-03)","Sul",675,4.5,102,93,65,40,1,0,"No Prazo",0,0,0.35
+LOG-1120,PED-879104,"Rota Ágil","Campinas (CD-02)","Nordeste",2164,1.6,394,204,129,51,0,0,"No Prazo",0,0,0.34
+LOG-1121,PED-962762,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",291,15.3,629,102,48,41,1,1,"No Prazo",0,0,0.72
+LOG-1122,PED-803418,"Flash Courier","Extrema (CD-03)","Sudeste",298,16.1,4541,97,45,12,0,0,"No Prazo",0,0,0.1
+LOG-1123,PED-214853,"LogExpress","Extrema (CD-03)","Sudeste",245,16.8,3454,102,54,12,0,0,"No Prazo",0,0,0.17
+LOG-1124,PED-292955,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",399,11.3,3094,89,45,12,0,0,"No Prazo",0,0,0.29
+LOG-1125,PED-737723,"Flash Courier","Extrema (CD-03)","Nordeste",2358,29.9,1123,306,125,59,0,1,"No Prazo",0,0,0.57
+LOG-1126,PED-217588,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",317,12.2,2369,95,45,33,1,0,"No Prazo",0,0,0.53
+LOG-1127,PED-222222,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2171,34.9,2329,307,125,60,0,0,"No Prazo",0,0,0.58
+LOG-1128,PED-728101,"TransBrasil Cargo","São Paulo (CD-01)","Nordeste",2093,33.2,2245,303,119,75,0,1,"No Prazo",0,0,0.75
+LOG-1129,PED-118614,"Flash Courier","Extrema (CD-03)","Norte",2471,9.4,801,248,180,51,0,0,"No Prazo",0,0,0.32
+LOG-1130,PED-238383,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",314,25.4,2795,132,44,12,0,0,"No Prazo",0,0,0.33
+LOG-1131,PED-424818,"LogExpress","Campinas (CD-02)","Sul",713,6.3,1167,98,71,32,0,1,"No Prazo",0,0,0.37
+LOG-1132,PED-428989,"LogExpress","São Paulo (CD-01)","Sul",885,3.7,4041,103,71,24,0,0,"No Prazo",0,0,0.2
+LOG-1133,PED-995979,"Flash Courier","Extrema (CD-03)","Sul",851,25.3,143,168,74,16,0,0,"No Prazo",0,0,0.19
+LOG-1134,PED-629637,"Flash Courier","São Paulo (CD-01)","Sudeste",365,23.5,2779,136,52,31,1,0,"No Prazo",0,0,0.38
+LOG-1135,PED-961354,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1284,3.1,338,141,104,28,0,0,"No Prazo",0,0,0.24
+LOG-1136,PED-142233,"Flash Courier","Campinas (CD-02)","Sudeste",339,7.4,3100,70,52,41,1,0,"No Prazo",0,0,0.32
+LOG-1137,PED-334830,"LogExpress","Extrema (CD-03)","Centro-Oeste",1305,1.1,1656,136,106,33,0,0,"No Prazo",0,0,0.24
+LOG-1138,PED-329598,"Rota Ágil","Campinas (CD-02)","Sudeste",288,35.3,3048,158,52,12,0,0,"No Prazo",0,0,0.25
+LOG-1139,PED-391033,"Rota Ágil","Campinas (CD-02)","Sudeste",297,0.7,699,46,50,12,0,0,"No Prazo",0,0,0.12
+LOG-1140,PED-219135,"TransBrasil Cargo","Campinas (CD-02)","Sul",861,35,53,214,80,25,0,0,"No Prazo",0,0,0.43
+LOG-1141,PED-413904,"LogExpress","Campinas (CD-02)","Norte",2168,8.2,1130,225,166,57,0,0,"No Prazo",0,0,0.36
+LOG-1142,PED-675339,"LogExpress","São Paulo (CD-01)","Sudeste",395,0.6,453,55,51,24,0,1,"No Prazo",0,0,0.31
+LOG-1143,PED-498260,"LogExpress","Extrema (CD-03)","Sudeste",326,1.9,5230,58,45,12,0,0,"No Prazo",0,0,0.13
+LOG-1144,PED-240250,"Flash Courier","Campinas (CD-02)","Sudeste",326,24.6,656,132,48,24,0,1,"No Prazo",0,0,0.31
+LOG-1145,PED-785162,"Rota Ágil","São Paulo (CD-01)","Centro-Oeste",1300,34.8,1329,244,98,27,0,0,"No Prazo",0,0,0.36
+LOG-1146,PED-174375,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",1368,14.8,4466,186,93,34,0,0,"No Prazo",0,0,0.3
+LOG-1147,PED-330254,"Rota Ágil","Campinas (CD-02)","Sudeste",376,27.1,1399,138,47,22,0,1,"No Prazo",0,0,0.41
+LOG-1148,PED-491601,"LogExpress","São Paulo (CD-01)","Sudeste",305,32.1,3196,151,44,12,0,0,"No Prazo",0,0,0.24
+LOG-1149,PED-561369,"LogExpress","Campinas (CD-02)","Sudeste",387,30.3,58,147,44,12,0,0,"No Prazo",0,0,0.24
+LOG-1150,PED-697804,"LogExpress","Extrema (CD-03)","Sul",607,0.7,2950,69,82,18,0,0,"No Prazo",0,0,0.15
+LOG-1151,PED-600906,"Rota Ágil","São Paulo (CD-01)","Sudeste",319,0.7,1364,60,47,12,0,0,"No Prazo",0,0,0.12
+LOG-1152,PED-870675,"Flash Courier","São Paulo (CD-01)","Sul",932,14.4,5465,146,81,21,0,0,"No Prazo",0,0,0.16
+LOG-1153,PED-307110,"Flash Courier","Extrema (CD-03)","Nordeste",2358,4.7,4536,227,118,61,0,1,"No Prazo",0,0,0.47
+LOG-1154,PED-173780,"Flash Courier","Campinas (CD-02)","Sudeste",380,28.7,176,144,49,12,0,0,"No Prazo",0,0,0.15
+LOG-1155,PED-890771,"TransBrasil Cargo","Campinas (CD-02)","Sul",957,14.9,2006,148,80,39,0,1,"No Prazo",0,0,0.55
+LOG-1156,PED-654432,"Rota Ágil","Campinas (CD-02)","Sudeste",359,5.4,838,67,52,12,0,0,"No Prazo",0,0,0.14
+LOG-1157,PED-118645,"Rota Ágil","Campinas (CD-02)","Sudeste",393,0.5,4269,56,50,37,1,0,"No Prazo",0,0,0.38
+LOG-1158,PED-926520,"Rota Ágil","Extrema (CD-03)","Nordeste",1828,12.7,4613,216,121,39,0,0,"No Prazo",0,0,0.34
+LOG-1159,PED-704621,"Flash Courier","Extrema (CD-03)","Sudeste",241,0.9,1622,53,48,12,0,0,"No Prazo",0,0,0.04
+LOG-1160,PED-849390,"Flash Courier","Campinas (CD-02)","Sul",818,1.5,4497,97,73,31,0,1,"No Prazo",0,0,0.28
+LOG-1161,PED-829255,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1036,17.5,2463,163,109,30,0,1,"No Prazo",0,0,0.37
+LOG-1162,PED-133888,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",323,17.5,4298,110,54,12,0,0,"No Prazo",0,0,0.3
+LOG-1163,PED-339768,"LogExpress","Extrema (CD-03)","Sudeste",257,4.7,1616,67,48,27,1,0,"No Prazo",0,0,0.38
+LOG-1164,PED-530281,"Rota Ágil","Extrema (CD-03)","Sudeste",279,0.5,191,54,54,50,1,1,"No Prazo",0,0,0.54
+LOG-1165,PED-568622,"LogExpress","São Paulo (CD-01)","Sudeste",266,27.3,5508,137,54,23,0,1,"No Prazo",0,0,0.39
+LOG-1166,PED-977885,"Flash Courier","São Paulo (CD-01)","Sul",669,30.5,787,180,65,12,0,0,"No Prazo",0,0,0.19
+LOG-1167,PED-272654,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",325,6,3449,67,49,18,0,1,"No Prazo",0,0,0.44
+LOG-1168,PED-356685,"Rota Ágil","São Paulo (CD-01)","Sudeste",398,14.9,5532,110,54,12,0,0,"No Prazo",0,0,0.18
+LOG-1169,PED-732010,"Flash Courier","Extrema (CD-03)","Centro-Oeste",1082,11,2982,151,104,28,0,0,"No Prazo",0,0,0.17
+LOG-1170,PED-474000,"TransBrasil Cargo","Campinas (CD-02)","Nordeste",1915,1.7,96,188,137,53,0,0,"No Prazo",0,0,0.43
+LOG-1171,PED-182658,"TransBrasil Cargo","São Paulo (CD-01)","Centro-Oeste",1181,2.5,3139,130,93,34,0,0,"No Prazo",0,0,0.35
+LOG-1172,PED-457982,"Rota Ágil","Extrema (CD-03)","Nordeste",2126,5.2,804,206,118,48,0,0,"No Prazo",0,0,0.35
+LOG-1173,PED-999972,"Rota Ágil","Extrema (CD-03)","Norte",2470,2.3,2168,233,185,54,0,0,"No Prazo",0,0,0.38
+LOG-1174,PED-608630,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1359,9.3,204,158,95,31,0,0,"No Prazo",0,0,0.19
+LOG-1175,PED-783954,"Flash Courier","Campinas (CD-02)","Centro-Oeste",1134,24.6,2569,189,102,48,1,0,"No Prazo",0,0,0.47
+LOG-1176,PED-306643,"Rota Ágil","Extrema (CD-03)","Sul",936,24.7,385,177,65,23,0,0,"No Prazo",0,0,0.28
+LOG-1177,PED-529189,"Flash Courier","São Paulo (CD-01)","Norte",2700,3.3,403,246,191,78,0,1,"No Prazo",0,0,0.51
+LOG-1178,PED-954425,"LogExpress","São Paulo (CD-01)","Norte",3064,22.7,1934,343,165,84,0,1,"No Prazo",0,0,0.7
+LOG-1179,PED-182206,"Rota Ágil","São Paulo (CD-01)","Sul",776,10.3,709,124,72,18,0,0,"No Prazo",0,0,0.21
+LOG-1180,PED-632530,"Flash Courier","Extrema (CD-03)","Sudeste",248,9.8,193,80,47,12,0,0,"No Prazo",0,0,0.07
+LOG-1181,PED-449521,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",261,2.5,2071,59,51,12,0,0,"No Prazo",0,0,0.24
+LOG-1182,PED-233179,"Flash Courier","São Paulo (CD-01)","Sudeste",304,5.4,713,72,44,24,0,1,"No Prazo",0,0,0.24
+LOG-1183,PED-952395,"LogExpress","Campinas (CD-02)","Sul",798,0.6,552,87,80,18,0,0,"No Prazo",0,0,0.18
+LOG-1184,PED-283275,"TransBrasil Cargo","Campinas (CD-02)","Sudeste",319,6.7,5383,76,43,46,1,0,"Atrasado",3,226,0.51
+LOG-1185,PED-113371,"TransBrasil Cargo","Extrema (CD-03)","Nordeste",1477,11.1,835,174,109,84,1,1,"No Prazo",0,0,0.84
+LOG-1186,PED-680879,"TransBrasil Cargo","Campinas (CD-02)","Sul",874,27.9,150,192,78,25,0,0,"No Prazo",0,0,0.41
+LOG-1187,PED-853425,"TransBrasil Cargo","Extrema (CD-03)","Centro-Oeste",1108,30.6,90,205,93,48,1,0,"No Prazo",0,0,0.69
+LOG-1188,PED-124494,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",389,12.5,3588,96,50,24,0,1,"No Prazo",0,0,0.47
+LOG-1189,PED-848109,"Flash Courier","Extrema (CD-03)","Sul",667,34.8,4422,197,69,25,0,1,"No Prazo",0,0,0.39
+LOG-1190,PED-371493,"Rota Ágil","Campinas (CD-02)","Centro-Oeste",964,4.8,4035,117,105,48,1,0,"No Prazo",0,0,0.46
+LOG-1191,PED-108533,"TransBrasil Cargo","Extrema (CD-03)","Sudeste",300,30.7,55,150,54,12,0,0,"No Prazo",0,0,0.35
+LOG-1192,PED-836635,"Rota Ágil","Extrema (CD-03)","Sul",868,26.3,2815,179,69,20,0,0,"No Prazo",0,0,0.28
+LOG-1193,PED-131404,"Rota Ágil","São Paulo (CD-01)","Sudeste",247,4.1,142,66,52,19,0,1,"No Prazo",0,0,0.3
+LOG-1194,PED-590435,"Flash Courier","Campinas (CD-02)","Norte",3441,32.7,3211,398,171,75,0,0,"No Prazo",0,0,0.52
+LOG-1195,PED-965760,"TransBrasil Cargo","São Paulo (CD-01)","Sudeste",303,27,1370,142,47,12,0,0,"No Prazo",0,0,0.34
+LOG-1196,PED-707750,"Rota Ágil","Extrema (CD-03)","Sudeste",302,10.5,4037,90,50,16,0,1,"No Prazo",0,0,0.33
+LOG-1197,PED-202662,"LogExpress","São Paulo (CD-01)","Sul",800,10.8,3884,130,74,22,0,0,"No Prazo",0,0,0.21
+LOG-1198,PED-491875,"LogExpress","Campinas (CD-02)","Sul",848,1.3,391,104,70,32,0,1,"No Prazo",0,0,0.36
+LOG-1199,PED-955999,"TransBrasil Cargo","São Paulo (CD-01)","Sul",733,26.4,938,166,66,19,0,0,"No Prazo",0,0,0.38
+LOG-1200,PED-659101,"LogExpress","Extrema (CD-03)","Centro-Oeste",1335,4.4,4935,145,108,43,0,1,"No Prazo",0,0,0.43

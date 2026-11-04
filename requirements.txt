@@ -1,0 +1,9 @@
+# Dependências do Projeto de Supply Chain Analytics & Previsão de Atrasos Logísticos
+pandas>=2.2.0
+numpy>=1.26.4
+scikit-learn>=1.4.1
+matplotlib>=3.8.3
+seaborn>=0.13.2
+jupyterlab>=4.1.2
+ipykernel>=6.29.3
+pytest>=8.0.0
